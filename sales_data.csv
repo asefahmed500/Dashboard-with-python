@@ -1,0 +1,1001 @@
+Date,Category,Geography,Customer_Type,Sales,Revenue,Order_ID,Customer,Total_Amount,Status,Visits,Orders,Stage,Count,Traffic_Source,Session_Duration,Bounce_Rate,Pages_Per_Session,Product_Name
+2023-02-24,Books,Asia,New,641.94,597.44,7715,Customer_264,131.45,Pending,356,12,Add to Cart,32,Paid Ads,3.56,0.93,4.77,Product_59
+2023-04-30,Toys,South America,Returning,519.55,640.71,8027,Customer_925,144.01,Pending,177,38,Purchase,76,Organic Search,4.82,0.84,5.15,Product_59
+2023-03-11,Electronics,Europe,Returning,793.65,280.17,3304,Customer_296,580.52,Pending,237,12,Add to Cart,31,Paid Ads,1.7,0.24,3.27,Product_87
+2023-05-11,Home & Kitchen,North America,Returning,513.44,215.61,8069,Customer_790,508.33,Completed,423,29,Add to Cart,56,Referral,7.66,0.16,7.74,Product_45
+2023-01-17,Clothing,Europe,Returning,238.12,758.75,8258,Customer_814,967.48,Pending,146,9,Add to Cart,53,Paid Ads,1.15,0.58,7.33,Product_21
+2023-05-20,Electronics,North America,New,386.95,931.11,4055,Customer_493,815.9,Cancelled,178,42,Purchase,9,Direct,2.28,0.3,1.01,Product_74
+2023-03-07,Home & Kitchen,North America,Returning,798.13,836.48,5577,Customer_218,406.44,Completed,167,13,Visit,84,Direct,4.66,0.49,8.02,Product_66
+2023-04-22,Home & Kitchen,North America,Returning,408.66,360.49,6590,Customer_651,526.0,Cancelled,174,14,Purchase,55,Referral,8.86,0.0,8.76,Product_79
+2023-03-20,Clothing,Europe,New,19.54,938.23,6448,Customer_850,188.55,Cancelled,458,33,Purchase,71,Referral,7.93,0.43,8.8,Product_7
+2023-03-08,Electronics,South America,New,776.81,990.39,1725,Customer_291,797.25,Cancelled,277,19,Add to Cart,66,Referral,8.89,0.74,4.06,Product_54
+2023-02-28,Clothing,North America,New,320.5,986.55,6338,Customer_485,807.26,Cancelled,185,8,Purchase,27,Direct,1.76,0.94,4.54,Product_51
+2023-05-11,Electronics,Australia,New,320.77,443.12,6219,Customer_25,396.25,Cancelled,373,48,Add to Cart,71,Paid Ads,1.19,0.85,9.9,Product_57
+2023-03-14,Books,North America,Returning,913.08,910.2,3364,Customer_972,422.39,Completed,194,41,Visit,9,Referral,1.62,0.96,9.96,Product_37
+2023-02-11,Home & Kitchen,Asia,Returning,815.62,177.34,7751,Customer_465,569.78,Completed,399,1,Visit,34,Direct,6.82,0.6,7.68,Product_34
+2023-05-18,Toys,Asia,New,597.14,362.26,1488,Customer_660,539.96,Pending,245,31,Purchase,77,Organic Search,6.64,0.6,5.25,Product_7
+2023-04-09,Toys,Asia,New,555.97,768.98,3246,Customer_988,351.81,Completed,364,27,Purchase,37,Referral,3.3,0.01,4.25,Product_38
+2023-05-06,Books,Australia,Returning,674.99,218.35,8184,Customer_327,207.94,Cancelled,442,5,Purchase,41,Paid Ads,5.88,0.34,3.6,Product_75
+2023-03-04,Home & Kitchen,North America,Returning,792.55,624.09,6687,Customer_639,384.64,Cancelled,120,20,Visit,47,Direct,2.68,0.55,1.64,Product_3
+2023-02-01,Electronics,Australia,Returning,587.45,147.03,3235,Customer_444,595.25,Pending,422,9,Visit,10,Social Media,9.16,0.32,4.74,Product_79
+2023-01-19,Electronics,Asia,New,270.42,537.48,6043,Customer_624,297.79,Cancelled,364,41,Purchase,6,Social Media,4.32,0.09,1.33,Product_17
+2023-01-29,Clothing,South America,Returning,444.6,228.63,4682,Customer_133,681.74,Completed,59,34,Visit,44,Paid Ads,1.06,0.64,8.29,Product_43
+2023-03-12,Clothing,Australia,Returning,986.71,713.14,1496,Customer_313,934.28,Cancelled,139,21,Add to Cart,22,Paid Ads,2.92,0.58,2.07,Product_12
+2023-02-13,Home & Kitchen,North America,New,43.08,104.27,3492,Customer_804,728.05,Cancelled,360,39,Add to Cart,63,Referral,9.9,0.51,1.25,Product_86
+2023-01-17,Home & Kitchen,Asia,New,414.76,445.92,9329,Customer_152,944.51,Pending,387,39,Visit,36,Paid Ads,1.87,0.36,9.63,Product_93
+2023-03-21,Home & Kitchen,Australia,New,328.24,248.95,2827,Customer_897,720.78,Cancelled,356,24,Add to Cart,94,Paid Ads,2.66,0.66,7.8,Product_95
+2023-02-11,Toys,Asia,New,900.74,571.39,4576,Customer_738,246.2,Completed,90,35,Visit,89,Referral,2.86,0.94,3.61,Product_59
+2023-03-13,Toys,Asia,New,821.45,903.29,1280,Customer_884,750.34,Pending,88,3,Visit,17,Paid Ads,8.09,0.76,5.56,Product_2
+2023-03-08,Electronics,South America,New,158.8,598.02,5533,Customer_201,798.86,Completed,425,14,Add to Cart,3,Paid Ads,5.83,0.77,6.19,Product_31
+2023-01-21,Home & Kitchen,South America,Returning,448.52,558.9,2791,Customer_497,537.07,Pending,278,2,Visit,99,Paid Ads,2.47,0.82,4.71,Product_25
+2023-01-11,Home & Kitchen,Asia,New,463.3,492.95,7825,Customer_475,665.94,Pending,405,29,Add to Cart,20,Referral,8.6,0.28,1.23,Product_84
+2023-01-04,Electronics,North America,New,526.02,214.96,6490,Customer_723,303.38,Pending,377,47,Purchase,95,Social Media,9.94,0.66,3.77,Product_76
+2023-01-03,Books,Asia,New,821.16,791.22,7109,Customer_612,378.39,Cancelled,60,15,Purchase,7,Social Media,8.96,0.99,9.79,Product_87
+2023-05-01,Clothing,Asia,New,940.33,694.65,8328,Customer_375,896.6,Completed,265,32,Add to Cart,10,Paid Ads,6.18,0.55,9.46,Product_91
+2023-02-24,Toys,South America,Returning,398.86,608.72,4658,Customer_913,498.86,Pending,277,44,Visit,63,Referral,4.54,0.36,9.4,Product_14
+2023-01-01,Home & Kitchen,Australia,New,865.06,385.83,2027,Customer_41,171.59,Completed,79,42,Add to Cart,39,Paid Ads,9.9,0.15,8.99,Product_37
+2023-05-18,Toys,South America,New,232.31,313.94,5822,Customer_618,392.78,Completed,327,26,Purchase,46,Direct,4.72,0.35,7.86,Product_93
+2023-04-03,Clothing,Asia,Returning,854.73,642.54,5928,Customer_906,150.96,Cancelled,468,36,Purchase,72,Direct,2.86,0.29,9.42,Product_32
+2023-01-16,Toys,Asia,New,66.43,606.58,1906,Customer_584,744.93,Cancelled,148,36,Purchase,22,Paid Ads,9.33,0.3,1.62,Product_14
+2023-01-31,Home & Kitchen,Australia,Returning,419.31,425.34,1112,Customer_322,486.35,Cancelled,436,32,Add to Cart,10,Organic Search,3.69,0.05,5.47,Product_3
+2023-04-26,Books,Australia,Returning,578.84,401.0,5711,Customer_35,600.11,Completed,78,37,Purchase,91,Paid Ads,3.98,0.77,6.78,Product_25
+2023-01-30,Home & Kitchen,North America,Returning,907.84,394.48,9019,Customer_844,954.92,Pending,53,23,Add to Cart,82,Social Media,6.96,1.0,1.65,Product_63
+2023-02-06,Books,Europe,New,947.47,599.04,2311,Customer_499,580.07,Completed,227,28,Purchase,65,Paid Ads,7.29,0.33,5.5,Product_70
+2023-02-26,Electronics,South America,New,490.06,479.5,4729,Customer_228,589.13,Completed,342,10,Visit,70,Direct,1.47,0.14,9.32,Product_48
+2023-01-03,Toys,South America,Returning,673.0,288.72,1849,Customer_311,758.55,Completed,60,15,Add to Cart,9,Referral,1.65,0.78,6.02,Product_88
+2023-01-07,Clothing,Asia,New,206.77,690.73,5737,Customer_580,431.22,Cancelled,320,44,Purchase,47,Direct,5.75,0.15,4.67,Product_75
+2023-01-18,Home & Kitchen,North America,Returning,572.49,708.75,5186,Customer_305,888.63,Completed,263,26,Purchase,51,Referral,7.87,0.22,4.79,Product_55
+2023-04-26,Electronics,Australia,New,665.98,839.77,2059,Customer_201,516.61,Completed,411,8,Visit,79,Paid Ads,7.2,0.18,9.02,Product_94
+2023-01-12,Books,Europe,Returning,798.46,324.51,8158,Customer_144,426.39,Cancelled,148,16,Visit,56,Referral,2.77,0.92,9.17,Product_96
+2023-04-27,Clothing,Australia,New,109.67,48.26,4790,Customer_567,539.52,Pending,150,30,Visit,63,Direct,2.44,0.96,9.29,Product_71
+2023-03-17,Home & Kitchen,Asia,Returning,243.96,392.48,9296,Customer_49,380.44,Completed,425,36,Purchase,81,Direct,9.14,0.49,9.3,Product_13
+2023-01-11,Electronics,Australia,Returning,949.54,434.88,8699,Customer_567,613.54,Cancelled,75,31,Purchase,10,Social Media,5.52,0.02,7.52,Product_36
+2023-04-10,Clothing,Asia,New,138.89,847.06,6636,Customer_612,269.98,Cancelled,89,35,Purchase,57,Social Media,1.78,0.43,4.35,Product_80
+2023-02-05,Clothing,Europe,New,887.55,97.57,9122,Customer_64,240.99,Pending,166,42,Add to Cart,27,Social Media,7.53,0.0,2.17,Product_48
+2023-05-05,Books,Australia,New,650.87,973.91,4712,Customer_595,851.28,Pending,461,6,Purchase,54,Organic Search,9.81,0.62,2.26,Product_16
+2023-01-11,Clothing,Asia,New,664.92,737.34,9095,Customer_876,574.75,Cancelled,122,17,Visit,77,Referral,7.24,0.13,1.7,Product_89
+2023-02-17,Home & Kitchen,Asia,New,610.36,719.41,3886,Customer_212,103.06,Cancelled,363,17,Purchase,57,Organic Search,1.17,0.99,7.16,Product_39
+2023-05-21,Electronics,Europe,New,969.35,418.47,7796,Customer_873,670.52,Cancelled,454,17,Purchase,91,Paid Ads,3.73,0.52,3.16,Product_42
+2023-05-01,Books,Australia,New,931.67,268.26,5739,Customer_520,705.86,Pending,428,39,Add to Cart,71,Organic Search,9.75,0.61,6.66,Product_10
+2023-03-07,Books,North America,New,838.28,791.08,2166,Customer_425,612.75,Pending,195,10,Purchase,17,Paid Ads,7.77,0.03,4.25,Product_43
+2023-03-30,Electronics,Asia,New,995.26,569.28,3860,Customer_597,824.8,Cancelled,284,33,Visit,46,Organic Search,5.62,0.51,3.45,Product_34
+2023-01-22,Home & Kitchen,Australia,New,651.53,492.64,8675,Customer_368,324.49,Cancelled,416,1,Purchase,80,Referral,1.31,0.85,1.87,Product_90
+2023-03-18,Clothing,North America,Returning,557.21,408.5,1953,Customer_854,706.52,Pending,79,46,Add to Cart,20,Direct,5.29,0.09,5.14,Product_32
+2023-01-26,Clothing,North America,Returning,420.08,399.83,9829,Customer_10,829.04,Completed,263,28,Purchase,36,Direct,6.23,0.83,1.26,Product_58
+2023-04-24,Clothing,North America,Returning,409.65,459.42,6605,Customer_266,846.75,Completed,408,35,Purchase,22,Paid Ads,9.74,0.75,6.58,Product_46
+2023-01-16,Home & Kitchen,Australia,Returning,985.45,486.0,9863,Customer_174,63.63,Pending,376,10,Visit,1,Organic Search,2.48,0.87,4.19,Product_99
+2023-04-16,Home & Kitchen,North America,Returning,427.89,720.18,9220,Customer_908,352.37,Pending,238,3,Purchase,62,Direct,8.41,0.09,4.29,Product_72
+2023-05-11,Home & Kitchen,North America,New,797.34,801.72,7232,Customer_428,382.89,Pending,71,39,Add to Cart,57,Paid Ads,2.56,0.13,8.64,Product_42
+2023-03-28,Toys,Australia,Returning,374.46,38.51,1102,Customer_397,828.29,Pending,153,3,Add to Cart,22,Referral,1.67,0.97,4.42,Product_89
+2023-04-13,Clothing,Asia,New,279.95,754.45,4510,Customer_764,412.77,Pending,292,16,Purchase,85,Referral,4.16,0.71,2.62,Product_64
+2023-02-25,Books,Asia,New,78.75,595.04,2803,Customer_165,10.92,Pending,125,42,Add to Cart,66,Direct,7.75,0.19,5.89,Product_99
+2023-01-31,Clothing,North America,New,721.23,611.36,5901,Customer_440,62.62,Pending,70,12,Visit,70,Social Media,7.55,0.71,5.68,Product_39
+2023-04-04,Home & Kitchen,North America,New,335.34,950.56,7121,Customer_812,38.77,Cancelled,279,49,Visit,48,Direct,5.22,0.45,2.15,Product_54
+2023-02-01,Clothing,South America,Returning,502.43,759.28,6500,Customer_595,645.34,Completed,362,38,Purchase,47,Direct,9.42,0.79,5.82,Product_32
+2023-04-27,Electronics,Asia,Returning,396.4,976.06,5039,Customer_708,842.39,Completed,81,31,Add to Cart,56,Paid Ads,7.45,0.04,5.97,Product_98
+2023-01-26,Electronics,Asia,New,687.91,193.0,6682,Customer_897,552.17,Completed,63,42,Add to Cart,58,Organic Search,7.63,0.42,9.43,Product_81
+2023-02-01,Electronics,South America,Returning,206.75,459.5,1224,Customer_485,401.65,Completed,195,10,Add to Cart,86,Referral,1.16,0.14,8.06,Product_13
+2023-01-26,Home & Kitchen,Asia,New,962.43,971.13,5868,Customer_180,856.94,Cancelled,214,6,Add to Cart,53,Organic Search,1.93,0.52,8.16,Product_50
+2023-03-20,Toys,South America,Returning,440.48,296.67,1766,Customer_336,838.93,Pending,301,13,Add to Cart,73,Social Media,2.42,0.11,4.8,Product_6
+2023-01-22,Home & Kitchen,Europe,New,374.46,894.42,6388,Customer_275,170.9,Completed,104,24,Purchase,48,Paid Ads,3.32,0.6,9.8,Product_1
+2023-01-15,Toys,Australia,Returning,956.78,558.27,4921,Customer_436,545.1,Completed,115,45,Add to Cart,41,Paid Ads,5.16,0.47,3.71,Product_96
+2023-03-17,Toys,Australia,New,733.9,69.49,6384,Customer_775,954.61,Pending,472,7,Add to Cart,23,Paid Ads,6.24,0.58,1.76,Product_76
+2023-05-02,Electronics,Europe,New,915.96,127.83,3630,Customer_987,913.13,Pending,148,45,Purchase,35,Referral,6.0,0.98,1.13,Product_59
+2023-01-04,Toys,Europe,Returning,949.12,274.73,8826,Customer_101,900.43,Cancelled,461,16,Visit,59,Organic Search,5.11,0.73,7.35,Product_54
+2023-01-31,Toys,Europe,Returning,779.72,156.42,8371,Customer_382,491.99,Completed,249,20,Visit,15,Organic Search,9.86,0.05,4.84,Product_11
+2023-01-20,Books,Europe,New,657.94,183.11,8085,Customer_127,254.02,Pending,473,14,Add to Cart,47,Paid Ads,9.81,0.4,9.1,Product_38
+2023-04-10,Books,Asia,New,550.05,186.2,3069,Customer_623,622.69,Pending,230,50,Add to Cart,10,Direct,6.51,0.48,3.33,Product_38
+2023-04-22,Clothing,Australia,Returning,889.94,173.09,7795,Customer_126,861.92,Cancelled,103,22,Add to Cart,41,Social Media,6.94,0.16,1.04,Product_56
+2023-03-11,Clothing,South America,Returning,788.63,401.04,5915,Customer_527,185.16,Pending,326,49,Visit,53,Organic Search,6.02,0.98,4.79,Product_13
+2023-03-02,Home & Kitchen,North America,New,884.27,285.88,4092,Customer_427,193.87,Pending,366,14,Purchase,61,Referral,2.11,0.82,6.42,Product_95
+2023-01-16,Home & Kitchen,South America,Returning,555.54,529.82,8372,Customer_738,661.01,Completed,206,46,Purchase,6,Paid Ads,7.84,0.66,6.25,Product_11
+2023-05-13,Toys,South America,Returning,282.94,29.12,4260,Customer_487,635.43,Completed,61,25,Visit,42,Direct,4.23,0.55,1.47,Product_23
+2023-05-03,Clothing,Europe,New,346.79,351.18,9642,Customer_108,309.23,Cancelled,154,9,Visit,18,Social Media,7.14,0.05,6.49,Product_80
+2023-02-19,Clothing,South America,New,230.28,923.7,4191,Customer_348,278.53,Completed,481,30,Add to Cart,20,Social Media,8.25,0.52,8.61,Product_45
+2023-05-11,Books,Australia,New,517.81,140.91,2506,Customer_863,304.28,Cancelled,273,41,Visit,27,Organic Search,6.57,0.45,7.78,Product_25
+2023-02-19,Books,North America,Returning,13.53,34.94,3987,Customer_831,221.04,Pending,346,1,Add to Cart,95,Organic Search,3.49,0.38,4.73,Product_73
+2023-03-07,Electronics,Asia,Returning,830.44,38.27,3981,Customer_172,734.89,Completed,64,29,Purchase,26,Direct,1.27,0.04,1.76,Product_19
+2023-05-24,Electronics,Europe,Returning,998.4,574.69,5759,Customer_733,401.69,Completed,225,24,Purchase,27,Direct,6.66,0.83,2.22,Product_25
+2023-01-24,Clothing,South America,Returning,139.38,630.61,1926,Customer_850,582.18,Cancelled,388,3,Visit,79,Referral,5.49,0.38,4.32,Product_26
+2023-02-05,Books,Asia,Returning,397.69,850.51,4802,Customer_10,870.87,Cancelled,225,9,Visit,7,Organic Search,4.88,0.54,6.17,Product_59
+2023-03-12,Home & Kitchen,South America,New,755.74,303.94,7450,Customer_682,389.88,Completed,237,40,Add to Cart,79,Social Media,9.37,0.42,6.54,Product_76
+2023-04-10,Electronics,Asia,New,80.73,78.43,4408,Customer_541,458.75,Cancelled,258,7,Add to Cart,59,Referral,7.76,0.82,2.11,Product_53
+2023-05-03,Books,South America,Returning,31.01,951.9,4549,Customer_386,406.75,Pending,341,44,Visit,88,Referral,5.28,0.26,4.35,Product_23
+2023-03-28,Clothing,North America,Returning,744.6,733.3,7129,Customer_68,254.87,Pending,395,38,Purchase,51,Referral,7.42,0.6,4.6,Product_1
+2023-04-03,Home & Kitchen,South America,Returning,931.68,187.31,4832,Customer_269,334.68,Completed,265,38,Visit,73,Organic Search,4.02,0.48,1.82,Product_61
+2023-05-25,Books,South America,Returning,609.9,986.69,7894,Customer_529,602.39,Pending,465,41,Add to Cart,28,Paid Ads,6.13,0.15,9.72,Product_36
+2023-05-07,Toys,Australia,New,845.49,278.97,6517,Customer_896,699.62,Completed,324,35,Add to Cart,82,Social Media,3.1,0.89,4.78,Product_41
+2023-01-08,Home & Kitchen,North America,New,550.44,618.4,5061,Customer_63,927.36,Completed,287,39,Visit,65,Organic Search,2.64,0.51,8.99,Product_26
+2023-02-09,Clothing,Europe,Returning,255.7,764.17,4587,Customer_95,744.06,Completed,111,10,Visit,47,Paid Ads,3.81,1.0,4.62,Product_86
+2023-04-24,Books,Australia,New,24.45,627.67,4232,Customer_959,844.85,Cancelled,116,24,Visit,77,Organic Search,4.33,0.98,1.73,Product_85
+2023-05-15,Books,South America,New,765.84,52.07,9497,Customer_823,499.95,Pending,170,31,Visit,17,Organic Search,5.01,0.58,7.75,Product_51
+2023-01-23,Books,North America,New,639.65,444.57,6058,Customer_323,729.12,Completed,315,47,Visit,99,Referral,1.39,0.44,3.27,Product_50
+2023-03-30,Home & Kitchen,Asia,Returning,292.44,733.48,3048,Customer_857,159.81,Cancelled,179,24,Visit,19,Organic Search,1.8,0.32,6.18,Product_17
+2023-04-30,Toys,Australia,New,71.9,779.89,6283,Customer_24,183.58,Pending,382,38,Visit,89,Referral,9.27,0.91,9.49,Product_68
+2023-03-16,Clothing,South America,New,227.83,289.74,5988,Customer_68,494.81,Pending,324,36,Add to Cart,11,Organic Search,3.22,0.36,2.5,Product_50
+2023-05-21,Toys,Australia,Returning,582.54,100.45,2042,Customer_932,995.91,Completed,192,45,Add to Cart,99,Social Media,4.41,0.06,1.54,Product_72
+2023-03-17,Toys,Australia,New,719.87,674.23,9319,Customer_481,539.41,Cancelled,313,11,Purchase,75,Paid Ads,6.31,0.25,6.82,Product_57
+2023-01-21,Clothing,Europe,New,520.14,44.09,3023,Customer_602,84.86,Cancelled,305,36,Add to Cart,20,Direct,4.54,0.54,9.66,Product_29
+2023-03-10,Books,South America,New,551.22,206.27,9387,Customer_929,686.21,Cancelled,440,44,Add to Cart,7,Paid Ads,4.43,0.33,1.94,Product_71
+2023-03-20,Toys,North America,New,939.87,471.65,5516,Customer_290,299.55,Pending,93,5,Purchase,66,Referral,7.44,0.31,6.51,Product_16
+2023-01-10,Home & Kitchen,South America,Returning,637.18,479.32,2162,Customer_587,402.84,Pending,235,22,Purchase,35,Direct,5.73,0.88,5.22,Product_23
+2023-03-13,Clothing,Asia,New,737.71,59.9,2523,Customer_479,978.5,Completed,480,20,Add to Cart,15,Social Media,8.86,0.19,8.22,Product_91
+2023-04-07,Clothing,Asia,New,172.9,41.88,5561,Customer_780,461.04,Completed,204,47,Purchase,23,Referral,7.01,0.19,8.52,Product_16
+2023-03-08,Toys,North America,Returning,996.89,195.04,5667,Customer_810,184.98,Pending,471,8,Visit,45,Social Media,1.75,0.57,10.0,Product_18
+2023-04-26,Toys,North America,Returning,940.37,19.73,9222,Customer_588,75.05,Pending,261,30,Purchase,60,Paid Ads,8.43,0.42,8.67,Product_83
+2023-05-22,Clothing,North America,New,527.87,556.93,2156,Customer_446,222.44,Pending,474,44,Visit,23,Organic Search,1.15,0.8,4.32,Product_90
+2023-03-04,Home & Kitchen,North America,Returning,381.24,23.43,5209,Customer_225,65.32,Pending,226,8,Add to Cart,81,Organic Search,9.05,0.26,6.78,Product_90
+2023-01-16,Electronics,Europe,New,379.9,830.98,4878,Customer_4,339.9,Pending,344,41,Visit,67,Social Media,2.76,0.95,7.22,Product_24
+2023-03-31,Toys,South America,Returning,683.9,479.01,4396,Customer_894,744.59,Completed,357,11,Purchase,85,Paid Ads,9.85,0.3,7.13,Product_43
+2023-05-27,Books,South America,Returning,633.77,458.24,2608,Customer_537,167.3,Pending,299,10,Purchase,27,Organic Search,7.62,0.5,2.7,Product_39
+2023-02-10,Books,Asia,New,561.49,708.1,5197,Customer_911,395.87,Pending,483,24,Add to Cart,52,Organic Search,7.6,0.53,9.36,Product_41
+2023-05-28,Toys,North America,Returning,62.9,712.36,3754,Customer_866,509.57,Cancelled,441,32,Visit,3,Referral,3.62,0.72,9.78,Product_42
+2023-04-04,Toys,South America,New,31.71,770.62,8182,Customer_559,763.25,Cancelled,159,42,Purchase,80,Social Media,1.16,0.17,9.71,Product_31
+2023-01-24,Books,Australia,Returning,461.82,981.54,5628,Customer_412,644.72,Completed,470,33,Purchase,77,Organic Search,8.64,0.78,9.23,Product_90
+2023-03-29,Electronics,Europe,New,748.2,627.84,3965,Customer_187,174.09,Cancelled,492,2,Purchase,87,Organic Search,7.05,0.9,2.6,Product_1
+2023-02-23,Home & Kitchen,South America,Returning,269.12,104.11,8693,Customer_713,253.89,Completed,200,4,Purchase,83,Referral,9.82,0.52,7.51,Product_2
+2023-03-26,Electronics,North America,New,33.56,742.29,2081,Customer_763,508.19,Completed,443,48,Visit,15,Direct,9.48,0.2,1.1,Product_41
+2023-04-19,Toys,Europe,New,268.09,634.55,6363,Customer_245,645.06,Completed,82,4,Visit,61,Social Media,6.86,0.7,9.39,Product_70
+2023-01-06,Toys,Asia,Returning,991.13,346.26,9252,Customer_845,821.92,Completed,266,46,Purchase,61,Direct,7.53,0.35,7.08,Product_6
+2023-03-14,Home & Kitchen,Australia,New,596.03,775.34,5575,Customer_438,872.31,Pending,91,27,Visit,80,Paid Ads,4.67,0.19,7.53,Product_52
+2023-03-18,Clothing,North America,New,338.16,462.54,1146,Customer_680,546.27,Cancelled,58,32,Purchase,51,Referral,4.44,0.85,8.07,Product_93
+2023-04-09,Clothing,Europe,New,377.84,821.83,1798,Customer_193,119.08,Pending,455,33,Purchase,93,Referral,9.19,0.28,8.97,Product_83
+2023-05-29,Electronics,Asia,New,177.04,70.34,4583,Customer_504,880.55,Completed,219,30,Add to Cart,25,Organic Search,4.39,0.27,8.62,Product_7
+2023-04-15,Toys,Asia,Returning,433.79,60.99,5613,Customer_209,117.23,Completed,291,33,Visit,4,Direct,6.51,0.65,6.83,Product_29
+2023-03-16,Toys,Australia,New,332.89,737.94,9506,Customer_433,262.71,Completed,400,1,Visit,50,Social Media,1.24,0.14,3.02,Product_65
+2023-05-28,Electronics,Europe,Returning,806.23,66.46,5161,Customer_598,265.26,Cancelled,171,40,Add to Cart,41,Paid Ads,5.98,0.35,1.53,Product_3
+2023-05-19,Electronics,North America,New,880.48,588.6,6716,Customer_3,615.82,Completed,103,27,Visit,47,Organic Search,3.76,0.93,7.98,Product_3
+2023-04-15,Home & Kitchen,Europe,New,276.19,669.14,4851,Customer_220,429.12,Pending,189,23,Add to Cart,62,Paid Ads,5.76,0.88,3.26,Product_81
+2023-04-05,Electronics,Australia,Returning,622.85,344.32,5404,Customer_575,162.95,Cancelled,401,37,Add to Cart,41,Referral,8.21,0.96,7.06,Product_68
+2023-02-05,Toys,South America,New,297.89,453.41,7622,Customer_902,400.41,Pending,217,31,Purchase,14,Paid Ads,1.13,0.61,7.97,Product_22
+2023-03-16,Clothing,North America,Returning,714.83,241.38,8124,Customer_190,342.08,Completed,354,29,Add to Cart,66,Direct,6.03,0.3,2.58,Product_22
+2023-01-05,Books,Australia,Returning,25.65,323.38,9596,Customer_111,49.46,Pending,307,50,Visit,74,Referral,9.67,0.73,2.7,Product_66
+2023-01-09,Books,South America,New,266.65,734.85,1040,Customer_631,802.67,Completed,203,48,Purchase,52,Paid Ads,9.49,0.11,9.4,Product_89
+2023-01-17,Books,Asia,New,259.81,425.87,4285,Customer_882,148.29,Pending,54,48,Add to Cart,99,Paid Ads,4.46,0.13,3.0,Product_57
+2023-02-28,Electronics,Australia,New,759.85,667.66,7922,Customer_591,485.66,Pending,255,5,Add to Cart,71,Referral,1.89,0.39,1.18,Product_20
+2023-02-15,Clothing,North America,Returning,349.7,913.78,6214,Customer_512,900.83,Cancelled,374,41,Add to Cart,47,Paid Ads,2.47,0.48,1.23,Product_15
+2023-05-03,Electronics,North America,Returning,364.42,487.7,8095,Customer_428,236.45,Cancelled,335,49,Purchase,34,Paid Ads,8.83,0.21,8.24,Product_93
+2023-04-19,Electronics,Europe,Returning,715.26,882.01,3713,Customer_603,555.63,Completed,127,31,Add to Cart,40,Organic Search,8.22,0.49,6.66,Product_82
+2023-01-16,Clothing,North America,New,603.21,885.33,8993,Customer_399,525.47,Pending,154,23,Add to Cart,79,Paid Ads,6.96,0.71,7.67,Product_49
+2023-03-24,Electronics,Europe,New,378.48,451.76,4931,Customer_964,784.63,Pending,358,25,Purchase,49,Organic Search,6.64,0.38,2.89,Product_40
+2023-01-06,Electronics,North America,Returning,380.11,970.15,5008,Customer_272,766.55,Completed,225,1,Visit,33,Organic Search,7.44,0.51,4.5,Product_11
+2023-01-11,Clothing,Europe,Returning,216.39,907.18,4275,Customer_643,364.86,Cancelled,307,29,Add to Cart,16,Social Media,1.83,0.18,7.54,Product_6
+2023-04-07,Toys,Asia,Returning,440.78,603.01,1287,Customer_64,652.63,Completed,240,19,Purchase,35,Referral,8.19,0.63,8.06,Product_37
+2023-04-01,Electronics,South America,Returning,18.3,277.39,7225,Customer_516,89.11,Pending,449,20,Add to Cart,9,Organic Search,6.8,0.16,9.74,Product_35
+2023-02-10,Electronics,Asia,Returning,119.56,906.43,9065,Customer_185,220.8,Completed,194,45,Visit,100,Referral,3.37,0.13,7.43,Product_85
+2023-02-17,Toys,North America,Returning,284.52,339.94,5526,Customer_314,74.09,Completed,238,25,Visit,53,Social Media,8.58,0.9,9.24,Product_57
+2023-04-05,Clothing,Australia,Returning,475.3,66.79,9532,Customer_980,372.18,Completed,242,31,Visit,12,Referral,6.1,0.43,7.74,Product_1
+2023-03-20,Books,North America,Returning,472.1,114.93,2424,Customer_827,377.23,Pending,486,29,Purchase,81,Social Media,2.38,0.17,5.73,Product_6
+2023-01-28,Toys,North America,Returning,829.79,143.3,8021,Customer_184,115.16,Cancelled,466,4,Purchase,54,Paid Ads,3.52,0.05,7.59,Product_56
+2023-02-09,Electronics,Europe,New,545.01,86.26,7372,Customer_519,685.3,Completed,132,16,Visit,70,Referral,7.22,0.08,1.95,Product_83
+2023-01-22,Books,Asia,New,371.9,715.35,2029,Customer_812,680.74,Pending,283,23,Purchase,89,Social Media,3.16,0.39,7.31,Product_71
+2023-04-01,Clothing,Europe,Returning,899.49,642.18,5124,Customer_802,149.13,Pending,237,42,Visit,54,Organic Search,1.29,0.39,4.3,Product_78
+2023-04-05,Books,South America,New,179.08,918.05,1297,Customer_293,260.86,Completed,484,27,Visit,54,Paid Ads,9.64,0.41,8.28,Product_82
+2023-02-24,Home & Kitchen,Asia,Returning,395.82,150.08,4412,Customer_347,521.55,Pending,152,50,Purchase,99,Direct,4.83,0.94,8.09,Product_98
+2023-03-25,Books,Asia,New,900.89,740.3,2617,Customer_305,34.0,Pending,62,24,Purchase,61,Organic Search,4.99,0.81,6.88,Product_27
+2023-03-07,Clothing,Australia,Returning,210.13,477.89,1191,Customer_460,838.6,Completed,278,40,Purchase,89,Referral,4.27,0.03,6.64,Product_13
+2023-01-24,Home & Kitchen,Australia,Returning,89.23,445.29,3623,Customer_994,999.13,Cancelled,177,4,Add to Cart,45,Organic Search,3.31,0.23,6.11,Product_77
+2023-02-14,Toys,Europe,Returning,331.22,768.63,6712,Customer_31,862.83,Completed,347,49,Purchase,86,Organic Search,8.49,0.82,4.28,Product_24
+2023-05-12,Clothing,Europe,Returning,39.36,967.91,9024,Customer_39,109.24,Completed,75,35,Visit,37,Organic Search,1.2,0.91,4.95,Product_53
+2023-01-09,Home & Kitchen,Asia,Returning,608.09,225.39,6187,Customer_714,852.92,Pending,200,31,Add to Cart,90,Referral,8.07,0.23,7.33,Product_28
+2023-04-08,Books,North America,Returning,468.17,242.72,4065,Customer_491,502.97,Completed,320,40,Visit,72,Organic Search,5.5,0.69,7.38,Product_95
+2023-03-26,Electronics,South America,Returning,575.44,396.28,4228,Customer_387,582.05,Completed,402,44,Add to Cart,90,Referral,4.69,0.56,7.98,Product_64
+2023-05-24,Toys,North America,New,892.97,118.06,1566,Customer_988,388.78,Pending,407,17,Add to Cart,7,Organic Search,4.14,0.41,5.0,Product_88
+2023-02-08,Books,South America,New,999.01,551.57,4162,Customer_908,460.2,Pending,234,23,Visit,67,Referral,9.26,0.92,3.35,Product_76
+2023-02-15,Home & Kitchen,North America,Returning,530.51,225.36,2832,Customer_737,862.14,Pending,392,21,Visit,100,Organic Search,3.33,0.48,3.19,Product_25
+2023-04-25,Electronics,Asia,Returning,535.05,783.32,1772,Customer_460,930.2,Pending,239,35,Visit,32,Direct,9.23,0.99,8.32,Product_78
+2023-01-28,Books,Europe,Returning,434.65,462.62,8780,Customer_744,529.94,Cancelled,209,42,Purchase,92,Direct,8.72,0.93,1.58,Product_63
+2023-04-25,Books,Asia,New,737.12,698.16,6536,Customer_259,745.84,Completed,54,46,Add to Cart,40,Paid Ads,9.24,0.96,2.65,Product_14
+2023-05-04,Home & Kitchen,Europe,Returning,545.07,996.02,8413,Customer_138,957.74,Cancelled,96,44,Add to Cart,89,Organic Search,5.24,0.4,4.14,Product_91
+2023-04-20,Toys,Australia,New,803.48,504.62,9511,Customer_886,205.13,Completed,220,20,Purchase,83,Direct,1.24,0.43,4.29,Product_23
+2023-05-28,Books,North America,New,269.17,390.03,5264,Customer_372,486.28,Completed,88,28,Visit,36,Social Media,7.96,0.96,8.36,Product_43
+2023-05-05,Books,Asia,Returning,779.48,388.85,3476,Customer_420,544.85,Completed,87,12,Purchase,14,Referral,1.45,0.29,4.36,Product_76
+2023-02-27,Toys,Asia,Returning,638.68,464.06,8943,Customer_210,235.63,Pending,66,49,Add to Cart,33,Organic Search,6.58,0.45,3.72,Product_91
+2023-03-04,Clothing,North America,New,163.58,994.87,2315,Customer_629,183.73,Completed,69,50,Visit,53,Organic Search,1.68,0.2,4.02,Product_98
+2023-04-25,Home & Kitchen,Europe,Returning,455.33,297.93,6928,Customer_305,359.23,Cancelled,75,44,Purchase,73,Direct,3.58,0.44,6.94,Product_60
+2023-03-29,Toys,North America,Returning,304.88,320.04,1534,Customer_187,107.63,Pending,52,5,Purchase,19,Organic Search,4.69,0.5,1.2,Product_37
+2023-02-11,Home & Kitchen,Europe,New,190.92,515.44,6030,Customer_458,822.84,Pending,350,30,Purchase,74,Social Media,5.03,0.78,1.38,Product_2
+2023-04-05,Clothing,Asia,Returning,295.39,471.21,2180,Customer_735,527.35,Cancelled,353,8,Add to Cart,30,Direct,1.4,0.14,6.74,Product_3
+2023-01-06,Clothing,North America,Returning,549.75,137.9,8992,Customer_380,876.0,Cancelled,318,39,Visit,43,Organic Search,6.42,0.8,2.98,Product_7
+2023-01-27,Electronics,South America,Returning,50.78,261.58,4788,Customer_737,408.02,Pending,185,13,Purchase,4,Organic Search,3.29,0.69,3.79,Product_8
+2023-02-10,Clothing,Asia,Returning,605.88,60.02,7948,Customer_526,340.16,Pending,115,18,Purchase,5,Paid Ads,1.34,0.65,8.96,Product_77
+2023-02-22,Electronics,South America,Returning,954.93,451.6,3780,Customer_567,466.14,Completed,474,50,Purchase,36,Social Media,3.51,0.2,8.52,Product_97
+2023-03-20,Home & Kitchen,Asia,New,29.53,754.33,5323,Customer_610,473.05,Cancelled,94,21,Add to Cart,38,Organic Search,9.66,0.41,2.62,Product_23
+2023-01-02,Home & Kitchen,North America,New,64.54,960.79,6357,Customer_222,589.15,Pending,83,25,Visit,26,Paid Ads,5.07,0.74,8.88,Product_74
+2023-05-06,Toys,North America,New,766.39,725.92,6022,Customer_449,64.97,Pending,234,29,Add to Cart,43,Paid Ads,8.74,0.4,4.65,Product_17
+2023-03-02,Toys,Asia,Returning,352.83,25.54,4010,Customer_339,74.23,Pending,351,23,Add to Cart,23,Referral,9.78,0.52,6.47,Product_68
+2023-04-24,Electronics,South America,Returning,164.13,901.73,9142,Customer_979,278.79,Pending,314,41,Add to Cart,21,Referral,2.64,0.05,5.5,Product_17
+2023-03-18,Home & Kitchen,Europe,Returning,604.78,229.09,9308,Customer_75,539.56,Cancelled,57,39,Purchase,24,Paid Ads,3.58,0.6,4.12,Product_45
+2023-05-13,Toys,Asia,Returning,198.56,881.93,5325,Customer_252,746.8,Cancelled,484,46,Visit,55,Referral,7.28,0.43,6.7,Product_99
+2023-02-15,Electronics,Asia,Returning,333.74,125.3,4264,Customer_660,351.03,Cancelled,500,17,Add to Cart,82,Organic Search,3.11,0.14,6.59,Product_65
+2023-04-03,Home & Kitchen,Australia,New,73.45,879.78,3644,Customer_105,224.96,Pending,230,29,Purchase,69,Social Media,8.52,0.29,2.92,Product_62
+2023-05-28,Books,Asia,Returning,990.16,42.8,4267,Customer_972,480.77,Pending,132,9,Visit,93,Organic Search,6.83,0.21,2.98,Product_73
+2023-02-13,Electronics,North America,Returning,922.89,132.56,4211,Customer_774,452.92,Pending,113,15,Visit,41,Social Media,5.16,0.48,8.01,Product_6
+2023-05-01,Books,North America,New,943.27,502.81,6360,Customer_444,195.31,Pending,478,30,Purchase,62,Social Media,8.38,0.52,3.64,Product_55
+2023-03-18,Books,South America,New,992.54,920.98,5492,Customer_688,44.88,Cancelled,111,50,Visit,82,Organic Search,9.52,0.28,7.57,Product_48
+2023-03-30,Home & Kitchen,Australia,Returning,464.33,551.2,1564,Customer_154,134.34,Completed,311,10,Visit,33,Direct,6.43,0.78,7.67,Product_6
+2023-05-30,Clothing,South America,New,435.96,279.84,1978,Customer_334,861.55,Completed,241,36,Visit,68,Direct,8.43,0.7,1.52,Product_26
+2023-05-29,Toys,Australia,Returning,302.88,771.02,5292,Customer_430,524.22,Cancelled,293,5,Purchase,86,Paid Ads,5.11,0.67,9.4,Product_16
+2023-02-11,Books,Asia,Returning,828.58,282.22,2492,Customer_729,787.17,Pending,120,14,Add to Cart,74,Organic Search,8.35,0.71,2.84,Product_61
+2023-03-21,Clothing,Asia,New,178.39,218.66,3685,Customer_407,960.19,Cancelled,311,2,Add to Cart,17,Paid Ads,9.76,0.37,7.49,Product_77
+2023-05-11,Electronics,Australia,New,91.05,507.9,9250,Customer_91,837.15,Cancelled,101,10,Visit,64,Organic Search,4.09,0.16,8.42,Product_56
+2023-04-02,Clothing,Asia,New,416.79,361.86,9943,Customer_133,112.42,Pending,104,16,Purchase,24,Direct,9.36,0.44,2.08,Product_38
+2023-01-12,Electronics,Australia,New,120.01,490.8,9257,Customer_683,920.57,Pending,172,18,Visit,40,Referral,9.22,0.28,9.92,Product_85
+2023-05-27,Clothing,North America,Returning,383.04,215.5,6185,Customer_454,182.49,Cancelled,83,47,Add to Cart,54,Referral,6.86,0.85,3.73,Product_77
+2023-01-14,Electronics,South America,New,514.85,541.12,9545,Customer_680,100.62,Cancelled,304,29,Visit,99,Direct,3.21,0.38,1.83,Product_19
+2023-02-26,Books,Asia,Returning,674.91,150.7,9275,Customer_858,765.52,Cancelled,209,22,Add to Cart,39,Direct,7.2,0.06,1.01,Product_70
+2023-05-25,Books,South America,New,343.52,215.6,6006,Customer_707,561.29,Pending,475,4,Visit,25,Direct,4.24,0.29,2.28,Product_18
+2023-02-03,Toys,North America,Returning,96.37,251.78,4568,Customer_823,472.8,Cancelled,278,49,Purchase,81,Direct,3.72,0.83,3.58,Product_25
+2023-05-07,Clothing,Europe,New,764.66,107.27,1586,Customer_81,769.49,Pending,252,27,Add to Cart,40,Organic Search,7.48,0.98,9.11,Product_28
+2023-02-13,Clothing,South America,New,316.86,529.7,3753,Customer_602,82.84,Pending,130,10,Purchase,84,Direct,2.73,0.11,3.42,Product_41
+2023-04-26,Clothing,Europe,New,202.52,531.29,8204,Customer_354,723.72,Cancelled,405,33,Purchase,94,Social Media,2.13,0.77,8.72,Product_92
+2023-04-03,Home & Kitchen,Europe,New,533.61,711.07,7001,Customer_493,300.25,Pending,191,47,Add to Cart,40,Organic Search,1.9,0.11,8.4,Product_90
+2023-01-06,Clothing,North America,Returning,177.1,201.56,9673,Customer_11,862.79,Completed,71,10,Purchase,66,Referral,1.78,0.36,4.54,Product_59
+2023-04-05,Books,Australia,Returning,139.41,550.03,7231,Customer_675,108.74,Pending,183,22,Purchase,58,Paid Ads,6.51,0.45,9.43,Product_7
+2023-01-30,Home & Kitchen,Asia,New,323.58,891.26,8927,Customer_783,550.89,Pending,335,9,Visit,66,Paid Ads,3.52,0.64,5.91,Product_13
+2023-05-15,Books,Australia,New,31.8,767.14,5479,Customer_96,976.85,Pending,499,2,Visit,29,Social Media,3.08,0.2,4.32,Product_12
+2023-02-27,Home & Kitchen,Australia,Returning,777.79,597.39,5339,Customer_523,190.7,Cancelled,281,25,Purchase,54,Organic Search,3.32,0.02,8.5,Product_99
+2023-04-19,Electronics,North America,New,714.99,287.96,1264,Customer_341,117.76,Pending,253,48,Add to Cart,10,Direct,2.94,0.29,4.9,Product_19
+2023-03-14,Books,Asia,New,154.99,732.17,7697,Customer_386,581.63,Completed,276,43,Purchase,67,Organic Search,5.1,0.61,1.5,Product_97
+2023-02-09,Electronics,South America,Returning,980.62,766.42,6339,Customer_597,27.63,Cancelled,457,21,Add to Cart,3,Social Media,4.79,0.45,4.73,Product_25
+2023-05-12,Clothing,Asia,Returning,940.58,168.15,8635,Customer_237,145.1,Pending,365,18,Add to Cart,1,Direct,8.89,0.05,8.16,Product_12
+2023-01-27,Clothing,Asia,New,232.6,25.15,7647,Customer_359,913.98,Pending,167,29,Visit,67,Referral,9.66,0.67,1.22,Product_94
+2023-01-28,Home & Kitchen,Asia,Returning,510.77,211.8,8015,Customer_912,812.77,Cancelled,166,32,Purchase,95,Direct,7.22,0.94,3.51,Product_13
+2023-05-16,Clothing,Australia,New,279.97,344.47,3263,Customer_615,417.4,Pending,423,9,Visit,7,Referral,8.43,0.78,1.73,Product_92
+2023-03-14,Books,Asia,New,488.95,921.99,7731,Customer_300,937.0,Completed,361,10,Purchase,67,Direct,5.64,0.62,5.22,Product_13
+2023-02-14,Books,Europe,Returning,743.48,577.7,9645,Customer_855,832.93,Completed,267,34,Purchase,46,Social Media,6.62,0.44,4.95,Product_7
+2023-02-07,Books,North America,Returning,226.69,388.93,9042,Customer_393,867.78,Cancelled,277,44,Purchase,62,Referral,2.09,0.26,6.52,Product_67
+2023-02-03,Home & Kitchen,Australia,New,383.27,221.41,2895,Customer_118,473.01,Pending,383,5,Purchase,30,Referral,2.86,0.2,9.81,Product_32
+2023-05-05,Toys,Asia,Returning,788.88,252.0,3064,Customer_7,22.52,Completed,72,17,Purchase,46,Organic Search,3.08,0.83,2.86,Product_47
+2023-03-11,Electronics,Asia,Returning,612.04,644.78,5025,Customer_34,540.85,Completed,94,44,Purchase,34,Direct,5.87,0.32,8.02,Product_32
+2023-02-12,Clothing,Asia,Returning,361.6,404.37,8310,Customer_299,141.76,Completed,140,10,Purchase,2,Organic Search,3.7,0.68,1.52,Product_73
+2023-03-13,Electronics,North America,New,376.69,208.44,2487,Customer_782,675.88,Completed,220,16,Add to Cart,25,Social Media,4.52,0.94,9.49,Product_60
+2023-03-28,Clothing,Australia,Returning,86.04,802.84,8411,Customer_272,853.54,Cancelled,251,45,Visit,33,Social Media,5.7,0.33,4.79,Product_8
+2023-01-02,Books,South America,New,864.38,109.87,3793,Customer_20,977.43,Completed,471,11,Add to Cart,13,Organic Search,7.4,0.93,9.37,Product_11
+2023-02-05,Home & Kitchen,South America,New,204.0,981.41,5065,Customer_714,707.07,Cancelled,252,24,Add to Cart,68,Organic Search,1.15,0.28,8.87,Product_11
+2023-01-17,Clothing,South America,Returning,357.41,46.38,9533,Customer_981,385.38,Pending,171,4,Add to Cart,22,Social Media,4.83,0.14,8.15,Product_16
+2023-02-02,Books,North America,Returning,420.92,701.18,7169,Customer_543,739.09,Pending,373,1,Purchase,57,Social Media,6.39,0.73,8.24,Product_20
+2023-02-21,Home & Kitchen,Europe,Returning,672.83,73.65,4988,Customer_653,879.63,Cancelled,491,34,Add to Cart,11,Paid Ads,2.04,0.84,8.53,Product_1
+2023-03-26,Books,South America,Returning,700.7,540.1,7053,Customer_550,755.42,Cancelled,141,28,Visit,96,Referral,1.23,0.01,9.36,Product_87
+2023-04-22,Electronics,Australia,New,436.95,156.33,3258,Customer_905,204.94,Cancelled,450,4,Add to Cart,37,Organic Search,5.36,0.84,2.4,Product_61
+2023-01-12,Books,Asia,New,92.17,851.27,6395,Customer_572,818.24,Pending,490,27,Visit,73,Paid Ads,4.93,0.02,7.34,Product_52
+2023-02-18,Clothing,Asia,New,414.12,780.48,2081,Customer_138,364.15,Pending,282,3,Purchase,91,Referral,9.09,0.46,6.3,Product_33
+2023-01-15,Toys,Asia,Returning,870.34,204.33,8131,Customer_528,380.11,Pending,134,29,Add to Cart,53,Referral,2.19,0.32,3.6,Product_93
+2023-01-13,Books,Europe,New,889.34,987.32,8142,Customer_74,286.49,Pending,158,28,Visit,46,Paid Ads,7.93,0.38,5.2,Product_89
+2023-03-15,Home & Kitchen,Asia,New,509.23,22.89,1056,Customer_41,399.89,Pending,107,38,Purchase,1,Direct,6.59,0.82,7.6,Product_68
+2023-04-04,Books,Asia,Returning,108.44,10.67,7264,Customer_197,258.85,Cancelled,52,20,Purchase,24,Referral,6.16,0.24,6.74,Product_67
+2023-04-01,Home & Kitchen,North America,New,636.33,173.16,3479,Customer_532,165.27,Pending,370,3,Visit,84,Direct,6.37,0.42,1.63,Product_48
+2023-05-13,Electronics,North America,New,612.81,761.25,2386,Customer_103,649.84,Completed,280,8,Visit,83,Referral,3.13,0.92,4.14,Product_23
+2023-05-12,Clothing,South America,New,326.41,393.68,6665,Customer_883,761.79,Completed,112,48,Visit,39,Social Media,4.65,0.01,5.87,Product_19
+2023-03-26,Clothing,Australia,New,846.38,421.26,4850,Customer_192,186.76,Completed,392,40,Add to Cart,7,Direct,2.31,0.08,5.92,Product_12
+2023-01-22,Electronics,South America,New,804.84,238.71,3139,Customer_983,628.39,Cancelled,116,2,Add to Cart,37,Paid Ads,3.34,0.73,3.3,Product_74
+2023-04-30,Clothing,Europe,Returning,882.08,208.06,1518,Customer_701,277.26,Pending,154,12,Visit,2,Direct,5.1,0.58,2.65,Product_60
+2023-03-10,Home & Kitchen,North America,New,743.42,90.3,5767,Customer_99,612.52,Completed,215,48,Add to Cart,2,Referral,4.27,0.78,4.77,Product_71
+2023-01-18,Toys,North America,New,330.75,28.92,9849,Customer_919,495.25,Cancelled,73,27,Add to Cart,97,Social Media,6.06,0.86,2.05,Product_50
+2023-05-17,Home & Kitchen,Australia,New,566.65,982.98,6323,Customer_641,735.36,Cancelled,268,42,Purchase,82,Organic Search,8.74,0.04,1.18,Product_73
+2023-02-09,Home & Kitchen,Asia,Returning,329.98,251.54,7666,Customer_19,601.43,Pending,135,29,Visit,41,Social Media,4.12,0.77,2.65,Product_84
+2023-03-19,Home & Kitchen,South America,New,566.94,660.54,3936,Customer_382,861.56,Cancelled,157,6,Add to Cart,55,Organic Search,5.33,0.73,4.09,Product_87
+2023-01-13,Home & Kitchen,Europe,New,275.77,225.03,2474,Customer_128,503.3,Pending,207,43,Purchase,22,Paid Ads,4.38,0.57,9.88,Product_79
+2023-02-14,Clothing,Europe,New,667.09,354.21,7382,Customer_595,16.45,Pending,357,10,Visit,78,Organic Search,6.48,0.26,8.85,Product_78
+2023-02-08,Electronics,Australia,New,330.38,327.45,5413,Customer_754,234.4,Completed,488,21,Purchase,92,Social Media,4.68,0.8,2.76,Product_69
+2023-01-09,Toys,Europe,New,591.17,275.4,4864,Customer_450,120.25,Pending,198,50,Visit,34,Direct,1.25,0.13,9.65,Product_19
+2023-04-17,Toys,Asia,New,289.93,584.94,2711,Customer_195,454.21,Pending,475,46,Purchase,31,Organic Search,5.59,0.61,5.36,Product_6
+2023-04-09,Home & Kitchen,Europe,New,747.78,622.4,6514,Customer_705,228.47,Cancelled,441,34,Visit,32,Referral,7.02,0.1,8.38,Product_14
+2023-04-29,Clothing,Australia,New,852.97,387.87,7996,Customer_781,127.28,Pending,192,23,Visit,41,Direct,3.37,0.21,3.45,Product_41
+2023-02-09,Books,Europe,New,124.04,692.08,7937,Customer_334,696.05,Pending,263,35,Add to Cart,12,Direct,8.56,0.75,4.72,Product_100
+2023-05-15,Toys,Europe,Returning,127.68,583.9,5721,Customer_892,291.06,Completed,318,29,Purchase,94,Social Media,4.52,0.95,5.61,Product_83
+2023-01-31,Toys,Australia,Returning,773.32,383.0,5592,Customer_786,600.15,Completed,192,26,Add to Cart,94,Paid Ads,5.14,0.09,9.66,Product_98
+2023-03-05,Home & Kitchen,North America,Returning,664.37,629.34,9446,Customer_603,115.17,Cancelled,88,44,Add to Cart,2,Organic Search,8.71,0.46,1.0,Product_75
+2023-02-02,Clothing,Australia,Returning,986.89,189.07,5375,Customer_503,386.15,Completed,454,24,Visit,92,Social Media,2.83,0.87,3.18,Product_97
+2023-02-14,Clothing,North America,New,133.81,866.02,1887,Customer_694,249.83,Completed,444,31,Add to Cart,57,Social Media,2.26,0.35,3.32,Product_58
+2023-03-18,Electronics,South America,New,673.08,548.58,7584,Customer_422,256.91,Pending,295,42,Add to Cart,28,Direct,6.65,0.56,2.75,Product_81
+2023-02-27,Electronics,Europe,New,133.61,304.6,3336,Customer_426,33.68,Completed,252,27,Visit,38,Social Media,3.88,0.62,9.61,Product_7
+2023-01-13,Home & Kitchen,Europe,Returning,338.76,87.59,7121,Customer_711,967.51,Cancelled,330,23,Visit,77,Direct,2.35,0.4,1.86,Product_35
+2023-04-28,Electronics,South America,Returning,19.0,172.44,6967,Customer_738,23.43,Pending,70,13,Purchase,75,Social Media,7.49,0.44,7.76,Product_95
+2023-03-29,Home & Kitchen,North America,Returning,255.0,431.98,9849,Customer_719,46.84,Pending,487,14,Add to Cart,14,Paid Ads,6.93,0.94,5.87,Product_42
+2023-03-08,Clothing,South America,Returning,14.94,238.75,6294,Customer_861,86.74,Completed,145,18,Purchase,71,Organic Search,9.05,0.25,6.85,Product_35
+2023-03-22,Toys,North America,Returning,902.92,676.52,1291,Customer_519,397.49,Pending,427,17,Add to Cart,17,Social Media,6.19,1.0,1.01,Product_100
+2023-03-06,Toys,Europe,New,64.81,904.53,5526,Customer_69,427.26,Pending,298,38,Purchase,80,Paid Ads,3.15,0.43,7.52,Product_64
+2023-05-16,Clothing,Europe,New,686.81,658.35,7970,Customer_865,69.62,Pending,142,17,Purchase,26,Paid Ads,2.62,0.1,4.69,Product_42
+2023-02-12,Books,Europe,Returning,309.08,179.72,1375,Customer_820,538.78,Pending,372,39,Visit,97,Social Media,8.46,0.64,1.01,Product_91
+2023-02-02,Electronics,South America,Returning,572.82,489.29,6567,Customer_496,121.01,Completed,114,37,Visit,82,Paid Ads,4.42,0.87,8.77,Product_78
+2023-01-03,Books,South America,New,980.26,789.95,4439,Customer_18,541.17,Cancelled,350,4,Add to Cart,56,Organic Search,6.33,0.66,1.11,Product_19
+2023-03-14,Electronics,South America,New,268.53,828.64,9132,Customer_183,316.15,Completed,326,33,Purchase,59,Referral,4.15,0.61,5.72,Product_4
+2023-02-07,Home & Kitchen,South America,Returning,128.92,159.34,9557,Customer_259,545.51,Cancelled,343,43,Purchase,41,Referral,7.87,0.85,5.85,Product_44
+2023-02-22,Books,South America,New,340.39,482.93,7555,Customer_76,460.77,Cancelled,69,8,Add to Cart,26,Referral,4.89,0.84,1.3,Product_81
+2023-02-28,Toys,Australia,Returning,268.58,38.27,1884,Customer_27,748.87,Cancelled,199,15,Visit,79,Referral,6.51,0.9,4.24,Product_50
+2023-04-06,Toys,North America,Returning,209.47,374.67,5576,Customer_380,560.96,Pending,489,42,Add to Cart,87,Organic Search,3.26,1.0,8.53,Product_47
+2023-04-04,Clothing,South America,Returning,345.21,414.8,5466,Customer_229,154.06,Pending,273,10,Visit,36,Paid Ads,4.36,0.26,3.79,Product_64
+2023-03-09,Clothing,Asia,New,629.39,18.34,3840,Customer_339,298.26,Cancelled,269,14,Add to Cart,93,Direct,6.34,0.5,8.84,Product_97
+2023-01-28,Toys,Asia,New,295.85,130.4,5880,Customer_981,595.37,Completed,54,45,Add to Cart,53,Referral,5.86,0.25,6.14,Product_76
+2023-04-28,Books,Europe,Returning,54.75,917.96,8357,Customer_421,488.52,Completed,344,20,Add to Cart,45,Referral,8.14,0.94,7.81,Product_85
+2023-01-28,Toys,Australia,New,881.94,627.08,8095,Customer_889,778.73,Cancelled,444,20,Add to Cart,72,Social Media,2.68,0.03,1.94,Product_61
+2023-05-24,Books,South America,New,778.06,779.15,6115,Customer_60,704.52,Completed,387,10,Visit,91,Paid Ads,3.39,0.66,2.77,Product_44
+2023-02-03,Electronics,Australia,New,713.13,688.98,8728,Customer_72,324.9,Completed,384,13,Purchase,95,Organic Search,4.54,0.12,8.32,Product_21
+2023-01-27,Books,South America,Returning,392.9,616.09,3330,Customer_368,341.8,Completed,265,15,Purchase,34,Direct,1.59,0.62,5.31,Product_52
+2023-02-25,Clothing,Europe,New,836.55,473.06,7461,Customer_335,701.37,Cancelled,289,19,Add to Cart,56,Social Media,6.5,0.84,3.98,Product_26
+2023-02-01,Home & Kitchen,Europe,Returning,713.12,289.7,4483,Customer_677,864.67,Completed,414,5,Visit,94,Paid Ads,8.61,0.68,9.45,Product_3
+2023-03-09,Books,Europe,Returning,550.56,926.2,2265,Customer_400,956.83,Pending,233,25,Purchase,79,Referral,5.77,0.57,3.22,Product_1
+2023-04-01,Books,Asia,New,44.5,201.96,7738,Customer_25,398.28,Cancelled,421,14,Purchase,63,Social Media,3.57,0.3,6.01,Product_60
+2023-03-26,Electronics,North America,New,498.67,863.42,9376,Customer_75,315.28,Cancelled,117,43,Purchase,6,Social Media,1.0,0.02,9.96,Product_47
+2023-01-06,Electronics,Europe,New,901.74,468.88,5460,Customer_342,898.63,Completed,327,20,Add to Cart,94,Social Media,4.96,0.79,2.73,Product_86
+2023-01-20,Electronics,North America,Returning,32.64,404.5,9559,Customer_8,643.14,Completed,369,16,Add to Cart,4,Direct,1.75,0.26,6.24,Product_45
+2023-05-17,Electronics,Asia,Returning,874.72,201.67,8516,Customer_644,983.7,Cancelled,296,47,Purchase,27,Social Media,1.61,0.96,6.29,Product_71
+2023-03-25,Home & Kitchen,South America,New,306.3,66.06,7187,Customer_64,836.62,Pending,491,20,Visit,29,Organic Search,2.45,0.21,7.69,Product_64
+2023-01-26,Home & Kitchen,North America,New,446.07,751.11,5521,Customer_132,285.68,Completed,153,8,Add to Cart,91,Social Media,5.9,0.51,4.9,Product_52
+2023-05-17,Toys,North America,Returning,543.16,684.75,5246,Customer_68,455.75,Cancelled,196,31,Add to Cart,5,Paid Ads,9.38,0.99,9.03,Product_90
+2023-02-26,Toys,Australia,Returning,845.7,307.43,6738,Customer_379,685.28,Completed,445,12,Purchase,55,Direct,2.32,0.92,3.9,Product_44
+2023-03-31,Electronics,South America,Returning,885.45,528.43,7976,Customer_609,614.6,Cancelled,135,17,Add to Cart,62,Paid Ads,9.29,0.79,1.63,Product_57
+2023-05-28,Toys,North America,New,775.63,17.73,6239,Customer_783,364.39,Pending,428,37,Purchase,42,Organic Search,3.55,0.49,2.83,Product_55
+2023-02-11,Home & Kitchen,North America,Returning,366.49,190.91,5926,Customer_390,82.37,Cancelled,339,33,Visit,47,Organic Search,1.26,0.24,4.47,Product_81
+2023-02-01,Electronics,Asia,New,976.49,736.13,7470,Customer_660,861.44,Pending,363,15,Add to Cart,7,Paid Ads,8.15,0.21,3.88,Product_90
+2023-03-05,Home & Kitchen,Australia,New,144.11,506.3,3204,Customer_305,501.13,Pending,470,38,Purchase,33,Direct,1.68,0.02,8.05,Product_71
+2023-03-06,Clothing,North America,New,251.37,50.65,5549,Customer_932,927.68,Cancelled,96,33,Visit,73,Direct,2.69,0.48,7.05,Product_34
+2023-03-14,Clothing,Europe,New,442.89,141.91,4514,Customer_687,954.03,Pending,108,18,Purchase,8,Organic Search,4.67,0.6,4.2,Product_100
+2023-05-11,Home & Kitchen,Australia,New,819.76,846.98,5941,Customer_959,131.11,Pending,92,27,Purchase,73,Direct,1.24,0.12,2.99,Product_87
+2023-04-14,Books,South America,New,491.7,330.71,6192,Customer_264,447.72,Completed,431,10,Add to Cart,34,Paid Ads,2.57,0.1,6.39,Product_8
+2023-05-07,Books,Australia,New,900.99,984.48,6354,Customer_47,149.62,Pending,172,34,Purchase,59,Referral,7.62,0.02,3.78,Product_61
+2023-05-17,Electronics,South America,New,705.82,897.35,9449,Customer_722,321.26,Pending,312,22,Visit,6,Direct,7.56,0.62,8.23,Product_29
+2023-01-06,Books,South America,New,208.36,451.98,2125,Customer_579,661.43,Completed,314,42,Add to Cart,14,Direct,9.66,0.8,3.18,Product_40
+2023-02-17,Clothing,North America,New,457.24,363.79,7558,Customer_565,666.06,Cancelled,194,41,Add to Cart,79,Referral,2.03,0.44,7.71,Product_26
+2023-05-26,Clothing,North America,New,708.79,346.77,3449,Customer_347,419.21,Pending,134,16,Purchase,8,Social Media,8.02,0.69,5.18,Product_21
+2023-04-06,Clothing,Asia,New,652.08,712.83,1397,Customer_599,228.96,Completed,318,11,Add to Cart,23,Direct,3.22,0.66,5.44,Product_64
+2023-01-03,Electronics,Europe,Returning,525.94,454.6,1147,Customer_478,831.49,Completed,461,34,Add to Cart,49,Social Media,4.05,0.68,4.88,Product_30
+2023-01-05,Books,Asia,New,451.84,202.93,8950,Customer_418,437.19,Pending,169,33,Visit,34,Paid Ads,5.96,0.63,1.29,Product_72
+2023-02-07,Toys,Australia,New,995.3,456.95,4007,Customer_906,751.22,Completed,207,44,Purchase,25,Organic Search,9.48,0.26,8.77,Product_70
+2023-04-08,Electronics,Europe,Returning,468.26,203.05,1227,Customer_935,148.83,Pending,135,24,Add to Cart,41,Referral,4.07,0.04,3.73,Product_54
+2023-05-02,Electronics,North America,Returning,405.4,387.48,1255,Customer_279,367.21,Cancelled,427,42,Add to Cart,96,Referral,2.52,0.01,8.9,Product_22
+2023-01-11,Toys,Europe,New,657.14,12.35,3838,Customer_655,388.58,Pending,220,5,Add to Cart,59,Direct,7.3,0.35,6.86,Product_5
+2023-03-26,Books,Australia,Returning,187.75,118.63,9460,Customer_891,437.06,Pending,483,48,Add to Cart,64,Organic Search,2.73,0.64,2.24,Product_34
+2023-04-22,Home & Kitchen,Asia,Returning,19.78,978.59,3862,Customer_134,863.87,Cancelled,165,20,Visit,59,Direct,8.63,0.75,4.94,Product_5
+2023-03-16,Clothing,Asia,New,869.55,97.43,5507,Customer_780,822.38,Completed,358,23,Add to Cart,19,Organic Search,8.96,0.6,7.34,Product_86
+2023-04-27,Toys,Australia,New,504.68,944.93,8056,Customer_832,729.13,Pending,474,11,Add to Cart,46,Referral,4.62,0.24,1.78,Product_47
+2023-02-21,Electronics,South America,Returning,489.59,64.51,2161,Customer_463,60.64,Pending,442,43,Add to Cart,48,Social Media,6.59,0.71,1.24,Product_24
+2023-05-01,Electronics,South America,Returning,514.94,20.3,2280,Customer_499,409.34,Cancelled,50,50,Add to Cart,89,Organic Search,1.52,0.35,2.57,Product_4
+2023-03-22,Home & Kitchen,North America,Returning,827.88,49.76,1263,Customer_212,281.8,Completed,347,28,Add to Cart,49,Social Media,8.52,0.95,2.81,Product_44
+2023-04-04,Electronics,Asia,Returning,397.35,949.09,3865,Customer_262,511.01,Pending,190,26,Purchase,96,Organic Search,7.61,0.4,5.5,Product_33
+2023-01-31,Electronics,Europe,New,464.0,60.83,4028,Customer_444,600.68,Cancelled,228,35,Purchase,37,Referral,2.4,0.12,3.42,Product_96
+2023-04-19,Clothing,Asia,Returning,88.64,532.92,6054,Customer_601,537.67,Cancelled,271,15,Purchase,95,Referral,5.32,0.11,8.94,Product_43
+2023-04-19,Toys,Asia,New,227.73,578.02,3847,Customer_786,641.41,Cancelled,128,19,Purchase,4,Social Media,8.11,0.57,2.52,Product_9
+2023-04-29,Home & Kitchen,South America,Returning,99.46,771.05,2454,Customer_832,518.42,Cancelled,360,45,Visit,1,Organic Search,4.87,0.37,4.42,Product_64
+2023-01-26,Clothing,Australia,New,987.9,491.1,2955,Customer_68,503.03,Cancelled,347,18,Purchase,25,Paid Ads,4.91,0.7,6.91,Product_86
+2023-03-13,Clothing,North America,New,51.89,103.06,1608,Customer_612,770.11,Completed,278,1,Visit,86,Social Media,8.09,0.99,8.22,Product_9
+2023-01-13,Books,North America,New,418.38,353.27,5584,Customer_298,692.74,Cancelled,51,41,Purchase,3,Referral,7.41,0.09,3.8,Product_65
+2023-02-02,Home & Kitchen,Australia,Returning,728.88,31.81,9678,Customer_136,553.02,Cancelled,178,50,Purchase,97,Social Media,8.25,0.13,4.91,Product_1
+2023-05-27,Books,Australia,Returning,772.79,335.44,3538,Customer_722,304.57,Pending,465,7,Purchase,43,Direct,8.07,0.83,8.57,Product_97
+2023-05-04,Home & Kitchen,Australia,New,348.82,889.7,4922,Customer_356,412.24,Pending,92,3,Visit,19,Direct,9.66,0.96,4.68,Product_2
+2023-02-27,Clothing,Asia,New,899.94,528.13,8366,Customer_10,332.22,Completed,152,9,Add to Cart,84,Paid Ads,6.76,0.66,4.18,Product_98
+2023-04-15,Books,South America,New,674.4,528.5,2976,Customer_697,203.04,Pending,59,1,Add to Cart,60,Paid Ads,7.5,0.91,1.09,Product_82
+2023-04-16,Toys,North America,New,175.45,896.85,8782,Customer_858,590.14,Pending,208,11,Add to Cart,86,Referral,6.95,0.94,5.5,Product_83
+2023-03-02,Clothing,North America,New,987.08,715.26,4487,Customer_303,454.76,Completed,68,35,Purchase,65,Direct,3.81,0.43,1.46,Product_47
+2023-01-02,Electronics,Australia,Returning,822.81,662.17,5118,Customer_742,264.26,Completed,279,39,Visit,25,Referral,5.37,0.55,5.96,Product_78
+2023-05-01,Toys,Asia,Returning,530.2,222.97,6098,Customer_331,514.41,Completed,50,11,Purchase,80,Organic Search,4.32,0.7,5.53,Product_45
+2023-05-15,Books,Australia,Returning,483.02,443.59,4019,Customer_528,756.49,Pending,300,26,Purchase,59,Social Media,4.75,0.48,5.15,Product_95
+2023-04-06,Electronics,Australia,Returning,585.79,807.33,6306,Customer_252,465.81,Pending,275,18,Visit,30,Direct,6.9,0.59,3.97,Product_1
+2023-01-23,Books,North America,Returning,194.19,325.13,1713,Customer_551,413.42,Pending,380,40,Add to Cart,89,Referral,4.56,0.85,5.16,Product_30
+2023-04-16,Home & Kitchen,Australia,New,131.35,665.38,9421,Customer_46,836.35,Pending,262,44,Add to Cart,94,Direct,8.02,0.99,2.81,Product_74
+2023-04-30,Home & Kitchen,North America,New,371.61,173.28,1049,Customer_295,325.97,Pending,131,2,Purchase,42,Organic Search,3.17,0.43,4.34,Product_56
+2023-01-24,Electronics,Asia,Returning,442.44,867.63,1412,Customer_413,927.43,Completed,62,38,Purchase,100,Social Media,7.18,0.3,9.05,Product_46
+2023-01-04,Home & Kitchen,Europe,Returning,91.59,238.39,8506,Customer_302,936.78,Completed,398,31,Purchase,7,Paid Ads,3.67,0.15,6.15,Product_20
+2023-02-14,Electronics,Asia,Returning,45.51,935.58,1328,Customer_667,31.71,Pending,473,45,Visit,63,Paid Ads,9.73,0.96,4.01,Product_1
+2023-03-28,Home & Kitchen,North America,Returning,790.88,899.95,1784,Customer_892,356.57,Pending,108,1,Visit,81,Organic Search,7.8,0.06,3.48,Product_31
+2023-02-09,Toys,Australia,Returning,652.74,857.98,7888,Customer_685,311.32,Completed,250,30,Add to Cart,67,Referral,7.63,0.64,6.34,Product_23
+2023-02-23,Home & Kitchen,Europe,New,810.28,955.38,8413,Customer_211,654.86,Cancelled,193,32,Purchase,87,Paid Ads,7.93,0.2,1.08,Product_81
+2023-04-14,Clothing,Asia,New,801.44,624.72,6719,Customer_733,675.11,Pending,443,19,Purchase,34,Direct,2.73,0.02,4.49,Product_14
+2023-01-08,Toys,Asia,New,240.64,986.31,4128,Customer_677,965.68,Cancelled,178,18,Purchase,74,Paid Ads,1.95,0.06,2.63,Product_29
+2023-05-17,Clothing,North America,New,613.86,394.95,8672,Customer_880,497.42,Pending,56,25,Visit,67,Direct,7.72,0.27,4.48,Product_39
+2023-05-20,Clothing,South America,Returning,725.06,354.59,4679,Customer_949,854.3,Cancelled,495,36,Add to Cart,78,Direct,3.01,0.72,6.73,Product_84
+2023-05-21,Home & Kitchen,Australia,New,423.71,718.12,6003,Customer_680,131.0,Completed,444,14,Add to Cart,80,Social Media,2.18,0.15,4.89,Product_24
+2023-02-24,Electronics,South America,New,317.8,873.32,9048,Customer_136,753.55,Cancelled,343,39,Add to Cart,76,Paid Ads,6.53,0.77,3.79,Product_93
+2023-05-19,Clothing,Australia,New,619.26,328.55,8502,Customer_862,606.05,Cancelled,81,16,Visit,97,Organic Search,1.22,0.07,4.89,Product_36
+2023-05-15,Home & Kitchen,South America,New,843.52,986.87,6475,Customer_698,228.01,Cancelled,475,32,Add to Cart,22,Organic Search,4.17,0.5,6.56,Product_13
+2023-04-19,Clothing,North America,New,137.88,89.33,6125,Customer_741,232.73,Completed,232,50,Purchase,72,Direct,6.27,0.56,4.29,Product_31
+2023-03-18,Clothing,North America,Returning,318.97,526.0,6726,Customer_407,145.46,Cancelled,335,12,Purchase,80,Social Media,7.8,0.43,7.03,Product_24
+2023-04-19,Books,Europe,New,851.03,765.13,1631,Customer_102,168.03,Cancelled,227,49,Add to Cart,61,Direct,3.4,0.68,8.71,Product_56
+2023-05-09,Home & Kitchen,North America,Returning,919.73,139.23,1486,Customer_176,245.6,Completed,443,34,Purchase,2,Paid Ads,9.67,0.42,2.97,Product_69
+2023-03-06,Home & Kitchen,Australia,Returning,171.71,555.43,7740,Customer_797,671.71,Cancelled,460,25,Visit,34,Referral,9.33,0.29,6.97,Product_10
+2023-05-21,Clothing,Australia,Returning,655.46,835.58,7828,Customer_376,990.56,Completed,99,5,Add to Cart,49,Social Media,1.26,0.11,3.23,Product_99
+2023-02-20,Clothing,South America,Returning,812.13,69.16,6094,Customer_783,432.23,Cancelled,77,7,Add to Cart,88,Direct,1.56,0.3,2.01,Product_56
+2023-05-13,Toys,Australia,Returning,917.74,311.84,8376,Customer_305,580.79,Completed,438,37,Visit,40,Social Media,2.74,0.1,8.25,Product_96
+2023-03-29,Toys,Asia,Returning,116.78,552.03,2855,Customer_2,22.71,Completed,459,47,Visit,94,Direct,6.84,0.34,2.0,Product_60
+2023-04-27,Clothing,Australia,New,503.36,271.38,5206,Customer_14,240.12,Pending,456,40,Visit,30,Paid Ads,3.8,0.15,4.94,Product_80
+2023-05-21,Home & Kitchen,Australia,Returning,677.51,612.24,6794,Customer_48,580.87,Pending,221,23,Visit,59,Social Media,9.52,0.94,6.48,Product_11
+2023-05-23,Toys,South America,New,818.58,403.99,8129,Customer_728,73.56,Completed,189,10,Add to Cart,89,Organic Search,7.26,0.89,8.41,Product_63
+2023-05-30,Books,Asia,New,205.61,780.19,5774,Customer_115,175.85,Cancelled,270,50,Purchase,61,Paid Ads,2.53,0.89,3.0,Product_33
+2023-04-02,Clothing,Asia,New,115.41,971.34,9018,Customer_719,952.47,Pending,278,9,Visit,41,Social Media,7.91,0.66,2.74,Product_64
+2023-03-02,Home & Kitchen,Asia,Returning,357.03,93.9,6729,Customer_866,990.18,Pending,160,37,Add to Cart,98,Referral,7.47,0.25,8.71,Product_41
+2023-01-29,Electronics,North America,Returning,890.36,494.95,7863,Customer_546,882.6,Cancelled,382,29,Add to Cart,13,Referral,6.7,0.81,2.79,Product_86
+2023-05-01,Home & Kitchen,Europe,Returning,882.9,561.52,9150,Customer_667,920.93,Cancelled,334,12,Add to Cart,52,Organic Search,7.26,0.17,5.05,Product_55
+2023-05-14,Books,Asia,New,404.56,805.29,2507,Customer_497,716.78,Completed,291,19,Visit,24,Organic Search,3.97,0.93,3.79,Product_44
+2023-04-02,Books,Asia,Returning,926.47,458.64,3477,Customer_834,488.48,Pending,216,28,Add to Cart,52,Direct,1.28,0.74,6.73,Product_13
+2023-05-11,Clothing,South America,New,275.89,835.45,8971,Customer_321,230.77,Pending,255,31,Purchase,12,Organic Search,9.03,0.19,5.05,Product_77
+2023-01-26,Toys,South America,New,741.73,603.54,7555,Customer_851,373.2,Pending,435,33,Visit,28,Organic Search,5.54,0.48,4.42,Product_30
+2023-05-13,Electronics,Europe,New,918.99,635.56,4628,Customer_766,405.35,Cancelled,312,5,Add to Cart,15,Referral,3.03,0.55,4.07,Product_38
+2023-04-09,Home & Kitchen,Asia,New,992.91,411.76,8952,Customer_580,287.52,Pending,59,32,Purchase,24,Paid Ads,8.55,0.81,2.11,Product_36
+2023-01-16,Toys,Europe,Returning,859.86,618.27,2391,Customer_374,276.01,Cancelled,450,32,Visit,89,Referral,2.08,0.32,8.08,Product_99
+2023-04-02,Electronics,Europe,New,634.72,377.44,9715,Customer_793,928.55,Pending,301,23,Purchase,32,Organic Search,5.5,0.5,4.34,Product_15
+2023-05-04,Toys,Asia,New,256.74,544.52,4103,Customer_712,303.43,Completed,317,39,Visit,38,Direct,8.3,0.3,3.49,Product_82
+2023-03-24,Electronics,Europe,New,55.42,714.37,8199,Customer_136,86.93,Cancelled,446,45,Purchase,11,Social Media,6.34,0.49,4.26,Product_19
+2023-01-07,Clothing,Asia,New,70.42,311.78,3406,Customer_751,886.55,Completed,473,50,Add to Cart,52,Paid Ads,4.01,0.73,2.17,Product_36
+2023-04-29,Electronics,Asia,New,687.86,823.43,1597,Customer_566,53.46,Completed,155,31,Visit,8,Organic Search,3.34,0.16,8.48,Product_81
+2023-03-07,Toys,Australia,Returning,683.42,218.24,4239,Customer_46,304.16,Cancelled,423,12,Visit,6,Organic Search,2.77,0.87,7.33,Product_2
+2023-01-19,Home & Kitchen,Europe,Returning,173.67,762.11,5518,Customer_103,410.22,Pending,126,17,Visit,28,Social Media,5.99,0.07,3.74,Product_15
+2023-02-15,Electronics,North America,Returning,761.26,10.89,2405,Customer_633,98.56,Pending,304,23,Purchase,93,Paid Ads,3.93,0.58,2.94,Product_57
+2023-04-14,Electronics,Asia,Returning,33.08,967.22,9031,Customer_217,516.33,Completed,166,17,Visit,30,Referral,8.08,0.78,4.1,Product_2
+2023-02-06,Clothing,South America,New,251.74,279.79,3287,Customer_961,18.47,Cancelled,448,17,Visit,14,Organic Search,5.39,0.37,9.78,Product_12
+2023-02-27,Books,South America,Returning,217.94,125.74,3157,Customer_381,267.06,Completed,262,34,Visit,96,Referral,4.38,0.57,5.82,Product_76
+2023-03-06,Clothing,Europe,Returning,314.64,848.62,4959,Customer_394,632.06,Pending,174,41,Visit,69,Organic Search,2.03,0.36,5.48,Product_95
+2023-03-18,Toys,Asia,New,285.94,452.1,8446,Customer_245,992.45,Completed,482,12,Add to Cart,42,Social Media,7.72,0.8,4.18,Product_27
+2023-03-11,Books,North America,New,952.62,895.03,4391,Customer_524,100.08,Pending,383,46,Visit,52,Social Media,3.52,0.06,6.54,Product_20
+2023-04-27,Electronics,Australia,New,687.24,813.32,4908,Customer_831,831.82,Pending,280,7,Visit,57,Organic Search,6.21,0.24,8.44,Product_88
+2023-03-17,Electronics,South America,Returning,451.69,825.09,7405,Customer_679,537.09,Completed,80,46,Visit,23,Social Media,1.83,0.37,3.98,Product_10
+2023-05-03,Clothing,Asia,New,634.6,652.4,6890,Customer_962,778.66,Completed,274,4,Visit,68,Social Media,2.6,0.33,9.69,Product_5
+2023-04-20,Electronics,Asia,Returning,745.02,502.95,6702,Customer_475,351.28,Completed,483,33,Visit,83,Referral,8.12,0.26,2.38,Product_72
+2023-05-24,Clothing,South America,New,357.11,223.62,9865,Customer_725,67.85,Completed,311,5,Purchase,81,Organic Search,9.83,0.51,3.96,Product_34
+2023-01-16,Clothing,Australia,New,380.1,931.28,3178,Customer_859,57.06,Cancelled,353,40,Add to Cart,36,Direct,8.55,0.58,8.47,Product_44
+2023-03-18,Clothing,North America,New,711.13,124.46,3926,Customer_602,166.48,Completed,238,49,Visit,45,Social Media,2.68,0.11,5.52,Product_51
+2023-02-03,Clothing,Asia,New,984.96,181.71,9477,Customer_519,11.91,Cancelled,242,4,Purchase,59,Social Media,4.54,0.26,7.02,Product_46
+2023-04-28,Home & Kitchen,North America,Returning,648.63,114.38,1821,Customer_28,403.9,Completed,181,44,Purchase,21,Referral,1.97,0.29,6.89,Product_6
+2023-04-07,Clothing,Asia,Returning,158.49,836.55,1408,Customer_112,443.54,Cancelled,465,41,Add to Cart,19,Referral,5.51,0.42,1.14,Product_90
+2023-02-08,Electronics,North America,Returning,682.01,137.41,3714,Customer_342,495.0,Cancelled,311,35,Add to Cart,74,Direct,1.01,0.76,4.68,Product_53
+2023-03-13,Electronics,South America,Returning,825.75,350.31,7892,Customer_383,730.98,Pending,289,9,Visit,91,Organic Search,8.66,0.13,3.42,Product_55
+2023-05-21,Clothing,South America,New,417.71,694.18,6478,Customer_367,145.58,Pending,114,23,Add to Cart,78,Organic Search,7.1,0.19,8.06,Product_43
+2023-04-10,Home & Kitchen,Asia,New,552.96,108.32,3082,Customer_195,589.15,Cancelled,100,25,Add to Cart,34,Paid Ads,4.33,0.46,9.09,Product_18
+2023-02-27,Home & Kitchen,Australia,New,12.63,887.31,8700,Customer_484,264.66,Completed,144,8,Visit,48,Direct,9.11,0.67,7.44,Product_64
+2023-02-02,Toys,South America,Returning,387.82,407.43,8255,Customer_737,325.57,Pending,196,25,Visit,53,Organic Search,6.16,0.1,1.38,Product_29
+2023-02-07,Home & Kitchen,Europe,New,437.77,718.15,5152,Customer_305,388.05,Cancelled,88,19,Purchase,62,Organic Search,2.1,0.93,7.82,Product_21
+2023-02-25,Toys,Europe,New,613.68,240.16,8243,Customer_396,663.25,Cancelled,119,26,Purchase,21,Direct,5.15,0.42,4.64,Product_86
+2023-04-10,Books,Australia,New,736.87,939.91,2472,Customer_339,700.99,Cancelled,300,28,Purchase,100,Social Media,1.4,0.87,3.57,Product_22
+2023-03-13,Books,South America,New,679.61,871.51,2006,Customer_39,845.18,Pending,248,18,Visit,92,Paid Ads,7.97,1.0,2.83,Product_23
+2023-03-23,Electronics,Europe,New,511.09,561.5,7183,Customer_482,974.61,Pending,341,18,Add to Cart,61,Direct,3.33,0.15,1.06,Product_50
+2023-04-24,Home & Kitchen,Asia,Returning,537.16,303.19,4303,Customer_209,476.85,Completed,91,28,Add to Cart,4,Direct,3.34,0.03,4.91,Product_12
+2023-02-18,Clothing,Asia,New,542.49,976.7,7161,Customer_865,324.75,Completed,183,5,Add to Cart,25,Paid Ads,6.77,0.98,6.81,Product_75
+2023-02-03,Electronics,Asia,Returning,876.81,491.94,6527,Customer_727,553.27,Pending,452,1,Purchase,59,Organic Search,3.55,0.95,5.68,Product_30
+2023-01-08,Clothing,North America,New,892.32,285.34,4275,Customer_39,324.84,Completed,308,23,Add to Cart,97,Organic Search,5.26,0.68,7.09,Product_100
+2023-01-26,Books,South America,Returning,412.27,539.31,3204,Customer_187,986.53,Pending,333,19,Purchase,31,Paid Ads,6.13,0.22,1.38,Product_55
+2023-03-30,Toys,North America,Returning,494.81,709.5,1116,Customer_978,309.35,Completed,465,35,Visit,73,Organic Search,5.29,0.98,3.19,Product_32
+2023-01-04,Books,Europe,Returning,493.2,395.18,5031,Customer_679,161.47,Cancelled,295,23,Visit,12,Paid Ads,1.02,0.76,7.48,Product_100
+2023-04-11,Home & Kitchen,South America,New,793.31,184.04,1771,Customer_456,429.12,Cancelled,374,24,Add to Cart,91,Paid Ads,9.67,0.59,1.13,Product_67
+2023-05-20,Clothing,Europe,New,566.87,380.31,3747,Customer_823,379.36,Cancelled,198,27,Add to Cart,2,Referral,8.36,0.8,9.14,Product_56
+2023-05-24,Clothing,Europe,New,909.57,210.38,8103,Customer_967,599.98,Pending,290,37,Visit,22,Organic Search,1.36,0.68,9.22,Product_50
+2023-01-19,Books,South America,New,628.84,699.04,7689,Customer_908,94.47,Pending,424,38,Visit,46,Paid Ads,6.23,0.55,7.21,Product_38
+2023-02-24,Books,North America,Returning,154.13,740.33,6902,Customer_703,528.19,Pending,68,36,Visit,52,Paid Ads,5.44,0.45,1.75,Product_3
+2023-02-23,Books,Asia,Returning,724.71,34.39,6423,Customer_476,977.64,Pending,430,29,Add to Cart,48,Paid Ads,9.67,0.46,4.98,Product_23
+2023-04-11,Books,Asia,New,885.37,334.65,4865,Customer_259,775.32,Pending,304,41,Visit,97,Paid Ads,8.57,0.6,2.04,Product_84
+2023-02-03,Clothing,Australia,Returning,189.41,223.69,8385,Customer_276,213.27,Pending,65,12,Add to Cart,84,Direct,9.36,0.15,2.44,Product_5
+2023-02-16,Clothing,North America,Returning,852.27,647.77,2716,Customer_701,587.81,Completed,195,21,Visit,55,Social Media,6.35,0.62,7.26,Product_79
+2023-05-14,Electronics,Europe,New,937.57,108.0,1696,Customer_513,892.05,Cancelled,362,20,Purchase,12,Organic Search,2.41,0.35,4.41,Product_21
+2023-04-20,Books,Australia,Returning,696.54,897.14,7967,Customer_323,261.27,Cancelled,490,11,Purchase,96,Paid Ads,1.57,0.05,3.77,Product_12
+2023-03-22,Home & Kitchen,Australia,New,232.37,456.17,1609,Customer_704,729.54,Cancelled,447,49,Visit,24,Paid Ads,9.46,0.76,4.62,Product_64
+2023-03-04,Books,Australia,Returning,427.04,657.73,8113,Customer_630,835.63,Cancelled,341,31,Purchase,90,Paid Ads,5.36,0.58,9.71,Product_12
+2023-01-22,Home & Kitchen,Asia,New,648.39,911.28,9489,Customer_83,165.92,Cancelled,452,45,Visit,9,Direct,6.82,0.37,5.78,Product_76
+2023-03-19,Electronics,Australia,New,404.75,450.48,6757,Customer_158,931.24,Pending,257,7,Add to Cart,94,Organic Search,8.19,0.8,1.39,Product_43
+2023-04-22,Electronics,Europe,New,491.92,359.13,6298,Customer_432,702.15,Completed,57,2,Add to Cart,4,Referral,4.47,0.21,9.58,Product_8
+2023-04-21,Clothing,Europe,Returning,362.67,366.87,1295,Customer_839,37.27,Pending,307,26,Visit,75,Direct,4.16,0.42,2.5,Product_32
+2023-04-02,Books,Europe,Returning,30.54,88.95,6326,Customer_51,268.8,Pending,232,12,Visit,75,Social Media,4.19,0.45,4.28,Product_88
+2023-03-26,Books,South America,Returning,559.09,434.22,6769,Customer_536,116.21,Cancelled,225,27,Purchase,40,Social Media,5.37,0.11,7.91,Product_22
+2023-03-20,Home & Kitchen,North America,New,761.22,539.25,5470,Customer_200,863.72,Completed,466,43,Purchase,12,Direct,2.12,0.32,6.3,Product_17
+2023-04-05,Electronics,Europe,Returning,755.44,818.24,5606,Customer_382,555.44,Completed,111,3,Visit,67,Referral,2.49,0.17,5.37,Product_16
+2023-04-23,Books,South America,New,388.05,575.91,4389,Customer_691,325.73,Completed,107,35,Purchase,28,Direct,2.51,0.19,8.33,Product_70
+2023-04-17,Clothing,Asia,New,687.6,56.81,7450,Customer_711,85.63,Pending,117,35,Purchase,29,Organic Search,5.01,0.39,9.52,Product_44
+2023-05-21,Toys,South America,Returning,249.76,747.79,5068,Customer_555,977.17,Pending,318,20,Purchase,36,Organic Search,7.03,0.89,1.53,Product_23
+2023-02-18,Books,South America,Returning,476.64,434.36,8180,Customer_424,778.34,Completed,398,47,Visit,6,Referral,1.04,0.66,1.39,Product_85
+2023-01-12,Electronics,Europe,New,86.56,677.19,7495,Customer_684,12.92,Completed,79,11,Purchase,60,Organic Search,6.16,0.78,5.84,Product_85
+2023-05-13,Clothing,North America,Returning,859.72,200.73,5464,Customer_444,969.37,Pending,104,30,Purchase,9,Direct,9.72,0.76,7.61,Product_42
+2023-03-04,Home & Kitchen,Asia,Returning,727.81,36.54,5590,Customer_178,32.48,Pending,268,36,Add to Cart,38,Social Media,3.29,0.18,9.77,Product_80
+2023-02-26,Books,South America,Returning,450.47,384.35,4616,Customer_874,583.15,Pending,121,43,Purchase,50,Paid Ads,8.75,0.44,5.36,Product_50
+2023-04-22,Clothing,Europe,New,433.01,406.52,4620,Customer_818,815.89,Completed,350,16,Visit,88,Organic Search,8.35,0.28,2.14,Product_17
+2023-01-20,Electronics,Australia,New,804.19,651.18,1455,Customer_952,911.38,Completed,213,14,Add to Cart,90,Organic Search,7.91,0.21,8.69,Product_71
+2023-05-01,Electronics,South America,New,388.9,95.32,5972,Customer_748,880.61,Completed,417,50,Visit,30,Direct,1.03,0.17,6.27,Product_15
+2023-05-07,Toys,Australia,Returning,420.12,90.45,8900,Customer_66,992.38,Pending,413,32,Add to Cart,95,Organic Search,4.92,0.77,3.71,Product_10
+2023-03-09,Home & Kitchen,Asia,New,939.0,408.8,6173,Customer_76,21.59,Completed,379,8,Visit,31,Paid Ads,7.19,0.06,2.6,Product_80
+2023-05-18,Electronics,South America,New,165.87,944.55,3705,Customer_137,341.03,Pending,87,31,Visit,82,Direct,6.25,0.78,3.35,Product_94
+2023-03-05,Clothing,South America,New,207.73,621.6,9985,Customer_482,587.41,Pending,136,7,Add to Cart,89,Direct,7.72,0.28,2.79,Product_47
+2023-03-23,Clothing,South America,Returning,821.65,170.69,5899,Customer_670,288.86,Cancelled,177,38,Visit,77,Social Media,8.39,0.39,9.73,Product_57
+2023-03-01,Toys,North America,Returning,610.01,270.9,3164,Customer_350,885.02,Completed,309,35,Add to Cart,6,Referral,5.91,0.35,6.35,Product_82
+2023-04-07,Toys,Europe,Returning,78.45,700.46,4344,Customer_290,704.01,Completed,377,10,Visit,91,Social Media,5.65,0.15,7.54,Product_29
+2023-04-10,Electronics,South America,New,780.9,674.16,9631,Customer_446,744.92,Cancelled,275,35,Visit,99,Referral,7.13,0.39,3.44,Product_2
+2023-05-27,Toys,South America,New,421.04,308.82,3766,Customer_450,948.31,Completed,105,22,Purchase,24,Organic Search,1.55,0.85,7.02,Product_56
+2023-03-23,Toys,Australia,Returning,887.2,25.79,7199,Customer_412,378.72,Pending,111,25,Add to Cart,25,Paid Ads,3.47,0.66,5.1,Product_89
+2023-03-06,Toys,South America,Returning,721.52,453.05,9874,Customer_828,81.34,Pending,369,27,Add to Cart,28,Social Media,3.12,0.75,2.55,Product_56
+2023-02-24,Clothing,Europe,New,498.7,451.79,4371,Customer_719,120.06,Cancelled,304,9,Visit,53,Social Media,5.55,0.07,9.43,Product_14
+2023-02-06,Electronics,North America,Returning,256.82,382.37,1030,Customer_586,419.32,Pending,284,34,Purchase,9,Paid Ads,9.4,0.0,4.66,Product_76
+2023-05-10,Home & Kitchen,North America,New,106.56,689.79,5411,Customer_950,602.87,Pending,459,16,Visit,37,Referral,9.85,0.58,4.13,Product_7
+2023-03-14,Home & Kitchen,North America,New,545.38,615.15,5518,Customer_808,314.72,Pending,81,18,Purchase,27,Social Media,5.36,0.97,9.81,Product_53
+2023-04-02,Electronics,North America,Returning,231.69,255.92,4946,Customer_589,603.84,Completed,378,16,Purchase,73,Direct,3.5,0.16,5.25,Product_45
+2023-01-02,Electronics,North America,New,510.03,10.19,4830,Customer_208,664.13,Completed,131,3,Visit,64,Direct,7.57,0.59,8.29,Product_40
+2023-05-15,Home & Kitchen,Europe,New,492.67,803.31,6285,Customer_737,127.35,Pending,115,32,Purchase,62,Social Media,1.17,0.14,1.14,Product_44
+2023-05-22,Clothing,South America,New,596.09,320.07,5976,Customer_331,989.7,Cancelled,262,23,Visit,70,Social Media,6.43,0.69,8.41,Product_27
+2023-05-03,Books,Asia,New,656.88,32.94,9058,Customer_155,219.83,Completed,395,7,Purchase,53,Social Media,5.24,0.86,4.83,Product_79
+2023-03-01,Books,Asia,New,834.66,583.21,7615,Customer_223,175.86,Cancelled,51,11,Add to Cart,85,Direct,8.88,0.35,8.74,Product_88
+2023-05-14,Home & Kitchen,South America,New,450.16,51.79,4235,Customer_414,213.9,Pending,171,6,Add to Cart,22,Organic Search,9.41,0.79,7.25,Product_7
+2023-03-27,Electronics,Europe,New,802.01,529.14,1407,Customer_786,737.75,Completed,74,32,Purchase,93,Paid Ads,8.63,0.6,1.03,Product_62
+2023-05-10,Books,North America,New,346.87,120.39,9243,Customer_686,270.13,Cancelled,354,34,Purchase,91,Referral,4.63,0.36,8.28,Product_90
+2023-04-23,Books,Europe,Returning,646.56,834.28,4268,Customer_549,872.65,Completed,60,13,Visit,63,Social Media,1.45,0.81,1.78,Product_14
+2023-01-25,Books,Europe,Returning,333.72,245.22,7623,Customer_300,467.14,Completed,345,48,Add to Cart,29,Social Media,7.84,0.44,9.74,Product_76
+2023-02-26,Clothing,Australia,New,817.62,711.11,6863,Customer_894,431.56,Pending,374,16,Purchase,67,Social Media,1.24,0.09,6.8,Product_50
+2023-02-10,Books,Europe,New,501.91,440.21,9959,Customer_9,920.33,Pending,374,25,Visit,97,Direct,4.91,0.48,3.79,Product_56
+2023-04-13,Books,Australia,Returning,958.66,309.69,6569,Customer_623,941.01,Pending,458,16,Visit,89,Organic Search,5.91,0.89,8.34,Product_43
+2023-04-14,Electronics,Australia,Returning,617.2,132.39,6500,Customer_732,691.63,Pending,125,26,Purchase,20,Referral,2.68,0.64,3.94,Product_37
+2023-05-05,Home & Kitchen,Australia,New,96.87,557.79,5970,Customer_178,789.31,Completed,451,44,Visit,66,Social Media,9.66,0.93,7.9,Product_65
+2023-01-13,Toys,Australia,New,548.13,44.26,5277,Customer_247,156.78,Cancelled,304,18,Purchase,14,Referral,3.93,0.04,6.57,Product_77
+2023-02-07,Electronics,North America,New,149.65,356.72,4940,Customer_739,789.57,Cancelled,238,45,Purchase,16,Organic Search,4.23,0.18,6.98,Product_16
+2023-05-23,Clothing,South America,New,301.11,842.85,2348,Customer_331,38.64,Pending,86,34,Add to Cart,52,Direct,4.49,0.68,5.57,Product_67
+2023-04-22,Toys,South America,New,669.69,445.29,3539,Customer_109,813.1,Cancelled,60,31,Purchase,33,Organic Search,4.84,0.95,1.19,Product_1
+2023-03-19,Home & Kitchen,North America,New,341.18,164.7,9925,Customer_963,168.63,Pending,413,9,Visit,59,Paid Ads,8.94,0.61,8.83,Product_61
+2023-03-23,Toys,Asia,New,327.35,320.76,5221,Customer_261,878.87,Cancelled,184,42,Add to Cart,86,Referral,3.75,0.14,9.16,Product_91
+2023-04-16,Clothing,Asia,Returning,210.36,435.49,1381,Customer_770,930.34,Completed,168,28,Purchase,31,Organic Search,1.68,0.49,9.09,Product_38
+2023-05-14,Toys,Europe,Returning,506.33,561.38,6949,Customer_41,667.8,Cancelled,313,19,Add to Cart,35,Paid Ads,9.54,0.82,9.24,Product_52
+2023-04-25,Electronics,Asia,New,673.54,119.93,2647,Customer_731,306.64,Cancelled,107,14,Purchase,100,Paid Ads,6.49,0.51,2.07,Product_28
+2023-01-03,Home & Kitchen,North America,Returning,806.98,294.4,2569,Customer_647,586.33,Completed,348,8,Visit,95,Social Media,7.21,0.41,5.91,Product_70
+2023-02-20,Electronics,Australia,New,284.41,828.95,7140,Customer_808,533.39,Cancelled,449,49,Purchase,25,Paid Ads,5.76,0.58,4.88,Product_95
+2023-05-29,Electronics,South America,Returning,458.43,407.51,3681,Customer_505,496.67,Pending,349,20,Purchase,91,Paid Ads,9.02,0.52,9.08,Product_55
+2023-03-31,Electronics,South America,Returning,583.7,970.15,3189,Customer_717,50.64,Completed,445,44,Add to Cart,74,Paid Ads,4.05,0.83,1.11,Product_84
+2023-02-25,Clothing,North America,Returning,289.26,323.91,5106,Customer_404,906.36,Cancelled,438,21,Add to Cart,52,Social Media,1.21,0.18,3.74,Product_28
+2023-03-13,Electronics,South America,Returning,776.17,109.09,7591,Customer_341,841.03,Cancelled,151,47,Visit,57,Paid Ads,5.72,0.88,6.92,Product_89
+2023-04-22,Electronics,Asia,Returning,744.07,135.3,5726,Customer_547,61.73,Pending,139,10,Purchase,12,Paid Ads,4.37,0.4,2.84,Product_81
+2023-02-07,Home & Kitchen,South America,New,896.79,347.91,9515,Customer_947,345.66,Cancelled,222,39,Purchase,15,Organic Search,3.29,0.51,2.56,Product_57
+2023-04-28,Toys,Asia,New,349.1,109.12,5942,Customer_428,628.29,Cancelled,83,42,Purchase,77,Referral,3.75,0.3,1.09,Product_52
+2023-04-10,Books,Australia,Returning,274.26,143.0,6690,Customer_335,313.32,Pending,489,22,Visit,30,Direct,9.03,0.21,6.93,Product_73
+2023-03-30,Toys,Australia,Returning,827.93,270.52,9208,Customer_511,646.14,Completed,428,16,Add to Cart,16,Paid Ads,8.9,0.72,8.42,Product_90
+2023-05-05,Toys,Europe,New,727.76,742.7,3619,Customer_79,115.65,Cancelled,130,15,Add to Cart,25,Social Media,7.66,0.71,1.95,Product_26
+2023-05-01,Electronics,Europe,Returning,127.36,250.94,7624,Customer_251,262.56,Pending,384,23,Purchase,14,Referral,1.46,0.27,6.16,Product_37
+2023-04-01,Toys,South America,New,999.91,331.64,2706,Customer_383,665.91,Cancelled,203,15,Visit,59,Organic Search,6.71,0.08,5.6,Product_44
+2023-03-16,Toys,Asia,Returning,856.93,440.22,4633,Customer_504,157.2,Completed,61,33,Add to Cart,43,Direct,8.75,0.01,8.0,Product_6
+2023-03-22,Toys,Asia,Returning,227.84,646.27,2390,Customer_637,546.81,Cancelled,398,2,Add to Cart,76,Direct,2.88,0.38,9.35,Product_29
+2023-04-09,Toys,South America,New,959.52,973.07,8480,Customer_49,919.74,Completed,349,25,Purchase,3,Referral,2.98,0.31,7.25,Product_90
+2023-02-11,Electronics,Europe,Returning,991.15,931.31,7354,Customer_796,227.43,Cancelled,239,17,Add to Cart,59,Direct,9.24,0.43,9.13,Product_66
+2023-03-02,Electronics,North America,New,775.66,101.88,1283,Customer_997,383.01,Completed,185,1,Visit,2,Social Media,8.4,0.03,8.08,Product_43
+2023-05-05,Books,North America,New,551.74,240.62,7615,Customer_996,690.45,Pending,141,16,Purchase,50,Organic Search,8.36,0.91,7.28,Product_6
+2023-03-24,Electronics,Asia,Returning,500.27,449.06,6454,Customer_559,829.94,Completed,178,48,Purchase,76,Direct,7.34,0.07,6.82,Product_46
+2023-01-13,Toys,Asia,New,132.93,467.55,2553,Customer_987,478.64,Cancelled,303,44,Add to Cart,47,Referral,6.91,0.16,1.75,Product_10
+2023-05-26,Clothing,North America,New,759.87,385.7,2905,Customer_528,922.33,Cancelled,492,13,Visit,41,Social Media,1.57,0.64,7.13,Product_16
+2023-03-17,Toys,Asia,New,190.61,304.23,6593,Customer_786,426.13,Cancelled,308,3,Add to Cart,92,Social Media,1.91,0.32,7.68,Product_87
+2023-03-14,Home & Kitchen,Europe,New,640.7,512.91,8892,Customer_551,343.38,Cancelled,363,30,Visit,10,Organic Search,9.56,0.58,4.72,Product_80
+2023-02-21,Clothing,Australia,New,287.33,310.15,6641,Customer_558,335.45,Pending,231,42,Add to Cart,75,Social Media,1.54,0.0,2.99,Product_65
+2023-05-18,Toys,Asia,Returning,66.26,987.56,3618,Customer_971,399.3,Cancelled,479,37,Add to Cart,89,Paid Ads,3.37,0.41,7.77,Product_63
+2023-05-08,Home & Kitchen,Asia,Returning,71.35,384.42,5441,Customer_423,201.15,Completed,265,6,Add to Cart,86,Direct,2.59,0.98,9.79,Product_66
+2023-05-20,Electronics,Europe,Returning,921.21,28.11,8051,Customer_957,703.59,Completed,123,47,Purchase,75,Paid Ads,9.64,0.74,1.56,Product_9
+2023-03-16,Electronics,North America,New,318.61,775.53,3889,Customer_605,807.63,Completed,500,13,Purchase,53,Paid Ads,4.09,0.3,2.29,Product_95
+2023-02-05,Clothing,Asia,New,183.52,328.3,9387,Customer_676,926.86,Cancelled,376,6,Visit,85,Organic Search,6.57,0.92,7.2,Product_51
+2023-03-03,Books,North America,Returning,363.01,201.2,5139,Customer_626,763.78,Cancelled,417,46,Purchase,47,Paid Ads,6.44,0.9,6.21,Product_14
+2023-04-20,Toys,South America,New,258.43,411.78,3223,Customer_532,679.05,Cancelled,119,26,Visit,96,Organic Search,6.89,0.12,8.03,Product_29
+2023-05-28,Electronics,Europe,New,73.62,796.21,7530,Customer_386,921.87,Cancelled,487,6,Add to Cart,16,Paid Ads,9.53,0.31,8.05,Product_6
+2023-03-12,Toys,Australia,New,15.71,207.95,3247,Customer_732,525.2,Cancelled,344,4,Purchase,2,Social Media,1.7,0.7,6.75,Product_1
+2023-01-07,Electronics,South America,New,964.72,403.66,4751,Customer_892,930.51,Completed,237,40,Visit,74,Direct,4.93,0.0,5.81,Product_41
+2023-01-02,Books,Asia,New,926.26,331.57,8800,Customer_384,742.89,Cancelled,244,35,Visit,58,Direct,8.38,0.15,1.88,Product_70
+2023-03-10,Toys,Europe,Returning,182.35,507.77,6027,Customer_91,327.32,Cancelled,405,22,Add to Cart,94,Referral,1.52,0.81,1.58,Product_75
+2023-05-14,Home & Kitchen,North America,Returning,652.94,182.01,3872,Customer_462,67.45,Cancelled,99,27,Purchase,47,Referral,8.46,0.02,1.92,Product_87
+2023-05-14,Home & Kitchen,Asia,Returning,513.53,15.1,7601,Customer_587,182.28,Completed,180,15,Visit,65,Organic Search,3.69,0.96,2.46,Product_1
+2023-01-09,Home & Kitchen,North America,Returning,203.31,903.65,6385,Customer_208,331.85,Cancelled,403,1,Purchase,99,Organic Search,3.91,0.28,3.66,Product_70
+2023-04-14,Clothing,Europe,New,568.44,89.77,7895,Customer_902,940.61,Cancelled,177,1,Add to Cart,94,Referral,2.23,0.85,5.94,Product_4
+2023-05-10,Electronics,Europe,Returning,420.42,567.68,1828,Customer_793,727.7,Completed,155,30,Purchase,9,Social Media,9.78,0.38,1.15,Product_48
+2023-05-31,Electronics,Asia,New,174.48,685.07,7506,Customer_196,158.14,Pending,424,21,Add to Cart,23,Direct,4.02,0.79,6.0,Product_63
+2023-03-10,Home & Kitchen,Europe,New,714.0,50.15,3410,Customer_45,346.76,Pending,204,12,Purchase,72,Paid Ads,4.18,0.46,3.2,Product_36
+2023-03-30,Home & Kitchen,Asia,Returning,493.5,653.38,5524,Customer_969,842.09,Pending,129,11,Purchase,98,Referral,3.18,0.55,9.34,Product_75
+2023-02-26,Electronics,Europe,New,90.33,226.77,9398,Customer_384,532.02,Cancelled,406,30,Visit,17,Organic Search,4.98,0.79,1.62,Product_37
+2023-02-09,Home & Kitchen,North America,New,566.98,868.76,2912,Customer_642,107.27,Cancelled,74,19,Purchase,100,Organic Search,6.31,0.01,7.57,Product_86
+2023-05-23,Clothing,Australia,New,818.51,874.53,8237,Customer_694,902.93,Completed,408,22,Visit,8,Organic Search,1.52,0.04,8.96,Product_92
+2023-02-01,Toys,South America,Returning,258.83,346.81,3535,Customer_904,622.18,Cancelled,484,13,Add to Cart,82,Direct,5.97,0.37,9.84,Product_11
+2023-03-24,Toys,Asia,New,721.68,487.75,5376,Customer_833,777.87,Completed,410,8,Add to Cart,52,Paid Ads,3.7,0.36,2.37,Product_75
+2023-03-01,Electronics,Asia,New,133.71,801.18,8416,Customer_28,122.17,Pending,183,6,Visit,4,Direct,9.21,0.28,3.0,Product_84
+2023-01-06,Electronics,Australia,New,615.06,718.64,9407,Customer_263,543.32,Cancelled,405,28,Add to Cart,18,Paid Ads,7.41,0.07,1.2,Product_57
+2023-03-08,Electronics,Asia,Returning,622.03,587.16,2534,Customer_499,989.51,Pending,101,50,Visit,80,Paid Ads,6.14,0.71,7.18,Product_75
+2023-01-30,Home & Kitchen,Europe,New,363.74,852.14,9971,Customer_272,463.75,Completed,328,29,Add to Cart,38,Referral,3.02,0.99,5.07,Product_72
+2023-01-06,Toys,South America,New,127.42,810.95,8004,Customer_259,463.48,Completed,294,14,Purchase,98,Referral,7.08,0.24,4.71,Product_90
+2023-03-14,Home & Kitchen,North America,New,949.66,763.86,1688,Customer_86,866.88,Completed,67,22,Purchase,76,Referral,4.82,0.18,2.91,Product_25
+2023-01-08,Home & Kitchen,North America,Returning,517.3,768.89,5947,Customer_601,41.13,Cancelled,137,28,Purchase,68,Direct,9.11,0.79,6.1,Product_74
+2023-04-12,Toys,South America,Returning,394.78,525.46,6079,Customer_708,414.1,Completed,381,20,Visit,7,Referral,1.67,0.6,6.61,Product_19
+2023-01-25,Clothing,Europe,Returning,680.47,97.77,1498,Customer_182,599.33,Pending,178,24,Visit,11,Paid Ads,6.32,0.89,9.66,Product_28
+2023-05-22,Books,Asia,New,704.84,33.31,5324,Customer_760,944.74,Cancelled,482,44,Purchase,50,Paid Ads,8.19,0.32,9.08,Product_12
+2023-03-09,Clothing,Europe,Returning,97.93,48.87,2849,Customer_115,798.61,Cancelled,169,18,Add to Cart,81,Organic Search,3.63,0.73,6.38,Product_64
+2023-03-29,Home & Kitchen,Australia,Returning,592.38,162.36,1578,Customer_233,890.38,Pending,458,18,Purchase,63,Direct,7.86,0.67,1.71,Product_10
+2023-05-24,Electronics,South America,New,494.58,483.43,6031,Customer_19,725.76,Completed,136,25,Visit,39,Paid Ads,1.42,0.63,2.15,Product_13
+2023-03-17,Clothing,Asia,New,271.88,345.01,9803,Customer_504,631.28,Pending,483,43,Visit,5,Organic Search,9.95,0.85,3.01,Product_5
+2023-03-26,Books,Asia,Returning,977.44,421.41,2405,Customer_901,263.76,Pending,154,6,Purchase,82,Direct,9.12,0.52,4.1,Product_61
+2023-04-11,Electronics,Asia,New,617.7,587.64,6389,Customer_880,432.36,Completed,273,50,Add to Cart,61,Paid Ads,8.53,0.58,2.85,Product_38
+2023-01-23,Electronics,Australia,New,405.89,629.71,4379,Customer_220,153.68,Cancelled,103,9,Purchase,16,Referral,4.91,0.53,3.18,Product_2
+2023-04-02,Toys,Asia,Returning,389.59,276.11,2342,Customer_482,505.72,Completed,56,40,Purchase,37,Paid Ads,6.75,0.69,2.43,Product_88
+2023-05-21,Home & Kitchen,South America,New,982.45,430.87,3903,Customer_893,750.52,Completed,96,48,Purchase,9,Referral,7.13,0.16,6.28,Product_21
+2023-04-02,Home & Kitchen,South America,Returning,483.23,895.43,5119,Customer_916,385.59,Pending,327,24,Add to Cart,6,Referral,2.36,0.51,8.25,Product_43
+2023-05-08,Books,South America,New,922.04,635.38,1363,Customer_551,402.21,Pending,126,49,Add to Cart,73,Organic Search,5.12,0.5,3.58,Product_69
+2023-03-12,Toys,Australia,New,430.9,601.96,8602,Customer_100,64.94,Pending,74,13,Visit,71,Organic Search,4.65,0.24,8.5,Product_90
+2023-04-05,Electronics,Europe,Returning,692.36,849.11,1467,Customer_562,617.22,Cancelled,454,5,Purchase,53,Direct,3.28,0.36,1.06,Product_6
+2023-02-05,Clothing,North America,New,770.41,200.94,8184,Customer_216,565.25,Pending,364,16,Add to Cart,41,Paid Ads,4.71,0.1,7.4,Product_11
+2023-02-09,Books,South America,Returning,933.48,64.03,4952,Customer_70,202.63,Completed,283,26,Add to Cart,5,Paid Ads,2.32,0.32,5.26,Product_39
+2023-03-09,Clothing,North America,Returning,485.22,769.98,8084,Customer_965,584.8,Cancelled,92,44,Add to Cart,83,Paid Ads,2.84,0.12,5.13,Product_80
+2023-01-31,Clothing,South America,New,772.44,437.78,2803,Customer_742,667.28,Pending,140,9,Purchase,5,Referral,4.21,0.15,3.37,Product_10
+2023-03-08,Books,Australia,New,245.03,66.93,6872,Customer_26,540.69,Cancelled,153,23,Add to Cart,39,Paid Ads,7.67,0.38,9.34,Product_53
+2023-02-26,Electronics,North America,New,897.27,249.16,9077,Customer_144,542.75,Cancelled,329,49,Purchase,29,Organic Search,5.93,0.31,2.17,Product_70
+2023-01-15,Toys,North America,Returning,895.12,196.32,3794,Customer_78,56.47,Pending,325,26,Purchase,77,Organic Search,3.58,0.55,6.55,Product_4
+2023-01-14,Books,Australia,Returning,47.05,927.37,7019,Customer_332,310.03,Pending,60,41,Add to Cart,64,Direct,8.63,0.5,2.65,Product_1
+2023-04-25,Toys,North America,New,318.88,888.22,1902,Customer_7,623.02,Completed,103,21,Visit,79,Organic Search,9.4,0.12,8.22,Product_78
+2023-01-05,Electronics,North America,Returning,399.0,165.88,7618,Customer_726,265.48,Completed,216,28,Add to Cart,92,Organic Search,4.0,0.42,2.04,Product_62
+2023-02-05,Toys,South America,Returning,512.76,371.8,8588,Customer_454,898.31,Completed,71,30,Purchase,83,Social Media,4.57,0.34,1.72,Product_61
+2023-02-13,Toys,North America,New,375.87,830.49,5809,Customer_492,701.94,Pending,436,4,Add to Cart,21,Referral,9.84,0.14,8.33,Product_25
+2023-05-05,Books,Australia,New,507.86,362.79,3077,Customer_759,173.42,Completed,435,47,Add to Cart,87,Paid Ads,2.28,0.57,6.34,Product_83
+2023-02-01,Home & Kitchen,Europe,Returning,774.07,785.58,6710,Customer_763,696.02,Cancelled,159,40,Add to Cart,92,Direct,8.5,0.7,1.56,Product_83
+2023-01-17,Electronics,Europe,Returning,336.63,728.41,6389,Customer_252,201.3,Pending,269,17,Purchase,19,Paid Ads,2.94,0.21,1.95,Product_77
+2023-01-29,Toys,North America,Returning,453.17,804.96,6318,Customer_633,630.41,Cancelled,155,48,Purchase,12,Direct,8.29,0.7,6.87,Product_22
+2023-04-22,Books,Australia,Returning,154.31,836.01,2733,Customer_531,502.25,Completed,182,11,Visit,64,Organic Search,7.09,0.41,2.98,Product_35
+2023-05-18,Toys,South America,New,438.42,669.83,3798,Customer_67,265.92,Pending,430,19,Add to Cart,51,Paid Ads,1.72,0.49,3.86,Product_16
+2023-04-22,Clothing,North America,New,302.48,816.39,4703,Customer_822,558.95,Cancelled,373,6,Visit,59,Paid Ads,4.86,0.2,6.17,Product_83
+2023-01-25,Electronics,Europe,Returning,744.55,276.74,1266,Customer_882,421.75,Pending,129,10,Add to Cart,90,Organic Search,3.64,0.69,2.5,Product_30
+2023-01-16,Home & Kitchen,South America,New,834.73,797.31,3341,Customer_652,84.46,Pending,66,15,Visit,14,Social Media,5.42,0.1,6.51,Product_17
+2023-02-01,Books,Asia,Returning,97.67,359.38,7131,Customer_694,852.45,Pending,469,33,Add to Cart,17,Organic Search,3.06,0.79,8.79,Product_30
+2023-05-08,Home & Kitchen,Asia,Returning,309.98,356.2,4275,Customer_984,929.89,Completed,495,24,Add to Cart,95,Referral,7.75,0.5,3.54,Product_22
+2023-02-19,Home & Kitchen,North America,New,354.27,14.71,8900,Customer_447,826.63,Pending,329,42,Purchase,84,Social Media,9.55,0.04,3.9,Product_11
+2023-02-03,Clothing,South America,New,894.91,813.87,4554,Customer_656,615.93,Pending,73,39,Purchase,16,Direct,1.95,0.68,10.0,Product_58
+2023-02-10,Electronics,North America,New,276.09,941.59,6203,Customer_620,96.15,Completed,61,46,Add to Cart,59,Paid Ads,4.93,0.29,3.29,Product_7
+2023-04-22,Toys,North America,Returning,642.77,89.22,1983,Customer_983,64.35,Cancelled,75,21,Add to Cart,25,Paid Ads,5.01,0.98,4.58,Product_25
+2023-04-02,Books,Asia,New,515.06,187.16,5442,Customer_755,895.26,Pending,76,47,Add to Cart,54,Social Media,1.11,0.54,7.76,Product_66
+2023-01-05,Clothing,Europe,Returning,733.88,744.83,7211,Customer_614,75.97,Pending,59,3,Add to Cart,1,Social Media,4.31,0.61,1.6,Product_70
+2023-04-02,Books,South America,New,625.91,15.11,3507,Customer_162,500.5,Completed,260,33,Add to Cart,44,Paid Ads,4.16,0.7,9.36,Product_100
+2023-02-11,Books,North America,New,146.39,377.62,2888,Customer_353,153.42,Completed,151,39,Add to Cart,79,Referral,8.96,0.05,7.97,Product_8
+2023-03-21,Home & Kitchen,Europe,Returning,173.8,95.4,7132,Customer_224,955.3,Pending,55,46,Visit,77,Paid Ads,7.87,0.02,8.97,Product_39
+2023-01-29,Electronics,South America,Returning,444.47,700.55,4605,Customer_24,521.49,Pending,67,31,Add to Cart,70,Direct,6.16,0.08,3.74,Product_47
+2023-04-13,Toys,Europe,Returning,977.46,39.1,6717,Customer_4,275.37,Cancelled,180,42,Visit,17,Paid Ads,9.19,0.15,5.63,Product_63
+2023-01-22,Home & Kitchen,Asia,Returning,920.57,622.37,1831,Customer_17,369.33,Cancelled,461,33,Visit,6,Direct,8.71,0.42,4.31,Product_85
+2023-02-25,Books,North America,Returning,244.24,438.69,2130,Customer_154,239.27,Pending,336,38,Visit,88,Social Media,7.59,0.56,2.85,Product_69
+2023-05-09,Books,Asia,New,857.06,261.52,4497,Customer_970,799.24,Completed,188,15,Add to Cart,13,Paid Ads,9.94,0.13,1.6,Product_9
+2023-01-14,Clothing,South America,New,604.62,845.06,1633,Customer_10,427.63,Pending,476,13,Visit,34,Referral,6.09,0.89,2.31,Product_63
+2023-05-28,Electronics,Asia,Returning,651.03,266.11,5818,Customer_449,815.53,Cancelled,210,47,Purchase,82,Social Media,3.63,0.36,3.9,Product_45
+2023-03-05,Electronics,Europe,New,316.59,347.88,4172,Customer_85,876.28,Cancelled,285,4,Add to Cart,92,Social Media,7.1,0.25,7.44,Product_54
+2023-03-15,Electronics,North America,New,418.36,394.67,5308,Customer_216,92.1,Cancelled,151,31,Visit,5,Direct,8.92,0.83,8.4,Product_70
+2023-01-30,Toys,Europe,New,40.33,196.85,9703,Customer_273,875.01,Cancelled,321,22,Visit,15,Paid Ads,4.27,0.26,2.86,Product_66
+2023-03-05,Home & Kitchen,North America,New,926.2,302.59,7204,Customer_271,71.88,Cancelled,395,6,Visit,11,Direct,3.37,0.39,2.65,Product_30
+2023-04-17,Books,North America,New,286.67,501.53,3770,Customer_331,182.35,Completed,432,34,Visit,87,Organic Search,9.87,0.31,1.93,Product_27
+2023-02-06,Home & Kitchen,Australia,New,697.25,877.33,8665,Customer_938,230.12,Cancelled,174,7,Visit,26,Paid Ads,5.93,0.16,4.31,Product_85
+2023-05-30,Books,Europe,Returning,690.77,834.53,5312,Customer_639,77.0,Completed,229,12,Purchase,1,Direct,9.49,0.04,7.46,Product_25
+2023-03-01,Books,Asia,New,294.29,878.52,9382,Customer_657,621.59,Cancelled,72,36,Visit,91,Organic Search,2.51,0.27,6.24,Product_70
+2023-04-06,Clothing,Asia,New,316.64,602.66,9483,Customer_936,438.3,Pending,288,22,Visit,86,Referral,3.78,0.8,7.97,Product_11
+2023-03-15,Home & Kitchen,South America,New,594.52,956.33,2236,Customer_344,737.24,Cancelled,422,36,Visit,37,Direct,8.21,0.72,7.11,Product_5
+2023-01-27,Books,Australia,New,178.74,767.27,6541,Customer_380,501.25,Pending,294,45,Add to Cart,43,Paid Ads,6.94,0.16,6.82,Product_41
+2023-01-02,Books,North America,New,670.57,964.98,5134,Customer_602,363.45,Cancelled,122,1,Purchase,55,Paid Ads,7.22,0.1,7.27,Product_27
+2023-05-07,Clothing,South America,Returning,613.94,427.92,5803,Customer_648,814.89,Pending,192,19,Add to Cart,64,Referral,8.27,0.15,8.82,Product_32
+2023-01-11,Clothing,North America,New,341.9,73.66,7495,Customer_643,947.61,Pending,87,38,Add to Cart,70,Direct,2.82,0.33,7.5,Product_85
+2023-04-15,Clothing,North America,Returning,83.48,68.11,1495,Customer_103,289.82,Completed,207,47,Visit,50,Social Media,6.62,0.31,8.48,Product_100
+2023-01-27,Books,South America,Returning,631.32,946.93,7663,Customer_438,862.2,Cancelled,487,12,Add to Cart,42,Organic Search,6.12,0.48,9.9,Product_2
+2023-05-04,Electronics,South America,New,502.71,261.33,6531,Customer_181,579.25,Completed,412,13,Add to Cart,45,Organic Search,7.96,0.01,3.88,Product_18
+2023-01-15,Home & Kitchen,North America,Returning,999.64,968.14,9528,Customer_742,139.86,Completed,203,7,Add to Cart,44,Referral,2.33,0.75,5.01,Product_31
+2023-05-27,Books,Europe,New,894.86,727.32,9228,Customer_258,853.33,Completed,332,25,Visit,18,Direct,9.38,0.92,4.26,Product_28
+2023-04-29,Home & Kitchen,Europe,Returning,92.71,862.89,3637,Customer_353,123.2,Cancelled,367,50,Add to Cart,94,Organic Search,1.28,0.45,3.87,Product_50
+2023-01-11,Books,Asia,New,161.73,409.08,4049,Customer_12,257.25,Completed,235,8,Visit,91,Social Media,7.57,0.78,7.36,Product_85
+2023-04-10,Electronics,South America,New,858.07,290.23,2832,Customer_696,179.0,Completed,296,15,Purchase,27,Social Media,3.96,0.38,9.36,Product_55
+2023-04-10,Toys,South America,Returning,552.05,841.9,9963,Customer_418,779.64,Cancelled,438,46,Purchase,71,Referral,8.12,0.25,1.7,Product_54
+2023-03-28,Electronics,Europe,New,660.52,414.8,9611,Customer_657,259.59,Pending,325,29,Add to Cart,30,Social Media,2.36,0.29,9.19,Product_93
+2023-02-18,Books,North America,Returning,543.6,809.74,3087,Customer_556,13.73,Cancelled,405,32,Purchase,57,Referral,8.5,0.76,7.23,Product_85
+2023-01-20,Toys,Australia,Returning,237.83,652.51,3347,Customer_905,546.99,Pending,373,25,Purchase,9,Organic Search,2.01,0.55,9.28,Product_11
+2023-03-08,Books,Asia,Returning,104.61,634.01,2713,Customer_426,659.51,Cancelled,441,6,Add to Cart,3,Direct,4.36,0.29,7.34,Product_97
+2023-03-08,Books,Asia,New,35.95,874.78,7163,Customer_1,198.68,Completed,85,1,Purchase,29,Direct,1.59,0.19,4.39,Product_46
+2023-03-24,Books,South America,Returning,714.99,87.24,5697,Customer_894,434.21,Pending,475,39,Purchase,6,Organic Search,6.98,0.4,5.17,Product_47
+2023-05-16,Clothing,Australia,New,907.45,603.18,4456,Customer_557,964.6,Cancelled,378,28,Add to Cart,28,Organic Search,1.21,0.27,4.08,Product_26
+2023-02-08,Electronics,Asia,Returning,229.46,403.41,4986,Customer_378,264.91,Pending,445,45,Add to Cart,36,Organic Search,6.48,0.26,7.08,Product_60
+2023-03-03,Books,Asia,New,706.81,53.75,5731,Customer_865,338.42,Completed,222,44,Visit,15,Social Media,3.55,0.41,7.05,Product_69
+2023-04-08,Clothing,South America,Returning,847.96,695.19,1204,Customer_552,180.15,Cancelled,332,19,Purchase,77,Paid Ads,6.95,0.95,6.77,Product_21
+2023-02-25,Home & Kitchen,South America,New,366.32,588.65,5018,Customer_551,772.38,Pending,373,21,Visit,96,Organic Search,3.0,0.66,3.4,Product_15
+2023-01-22,Books,South America,New,118.74,311.05,5164,Customer_967,516.81,Cancelled,73,24,Add to Cart,43,Social Media,6.4,0.77,4.31,Product_64
+2023-02-20,Toys,Europe,Returning,751.42,46.32,8329,Customer_388,761.85,Cancelled,348,37,Add to Cart,51,Direct,4.02,0.02,7.27,Product_43
+2023-04-04,Toys,Australia,Returning,701.26,174.07,6453,Customer_791,648.93,Cancelled,122,12,Visit,44,Organic Search,1.29,0.68,3.17,Product_48
+2023-03-13,Electronics,Australia,New,630.78,409.76,9404,Customer_529,908.75,Pending,404,15,Add to Cart,58,Paid Ads,8.99,0.85,7.19,Product_47
+2023-01-05,Books,Asia,Returning,544.35,368.96,2441,Customer_233,909.74,Completed,279,17,Visit,80,Organic Search,2.53,0.76,1.13,Product_24
+2023-04-07,Home & Kitchen,Europe,Returning,646.45,621.36,8073,Customer_895,37.17,Pending,102,8,Visit,22,Direct,2.75,0.8,6.48,Product_56
+2023-04-24,Clothing,Europe,New,483.89,921.82,2898,Customer_854,492.04,Pending,436,30,Visit,86,Social Media,7.52,0.74,1.17,Product_13
+2023-01-01,Electronics,North America,Returning,924.82,315.84,7165,Customer_693,475.1,Cancelled,57,37,Purchase,54,Organic Search,4.82,1.0,9.9,Product_55
+2023-03-16,Clothing,North America,Returning,777.3,410.42,1232,Customer_558,141.67,Pending,476,24,Visit,6,Referral,9.91,0.53,1.11,Product_30
+2023-05-22,Books,Europe,New,873.25,102.07,8509,Customer_315,877.93,Completed,334,14,Purchase,9,Organic Search,5.4,0.1,8.02,Product_43
+2023-02-01,Books,Europe,New,638.96,743.07,8644,Customer_365,107.76,Completed,367,25,Purchase,99,Organic Search,7.84,0.91,6.25,Product_7
+2023-03-15,Clothing,South America,New,118.21,26.43,8534,Customer_839,707.88,Pending,434,12,Visit,74,Referral,4.61,0.22,7.05,Product_88
+2023-04-16,Electronics,Australia,New,969.36,978.2,3251,Customer_438,307.44,Pending,254,40,Add to Cart,92,Referral,6.35,0.29,7.06,Product_46
+2023-04-27,Clothing,North America,Returning,475.89,868.33,3395,Customer_402,933.36,Pending,471,29,Visit,50,Social Media,8.11,0.52,9.15,Product_64
+2023-01-03,Home & Kitchen,Australia,New,901.89,378.65,2898,Customer_116,962.13,Cancelled,154,40,Add to Cart,51,Organic Search,8.1,0.29,9.4,Product_89
+2023-01-04,Clothing,North America,Returning,41.26,261.95,3975,Customer_291,650.91,Pending,144,25,Add to Cart,6,Direct,2.74,0.8,2.93,Product_100
+2023-04-28,Clothing,North America,Returning,252.58,552.38,4555,Customer_921,985.75,Pending,297,10,Visit,29,Direct,3.75,0.21,8.13,Product_23
+2023-01-09,Toys,South America,Returning,105.78,127.32,3494,Customer_770,559.66,Pending,342,8,Visit,9,Paid Ads,3.99,0.05,7.87,Product_17
+2023-01-11,Electronics,North America,New,366.81,268.92,4184,Customer_912,153.4,Completed,127,40,Add to Cart,69,Social Media,9.12,0.88,5.33,Product_11
+2023-04-30,Books,South America,New,113.56,471.55,3765,Customer_273,716.11,Pending,338,44,Purchase,89,Paid Ads,7.6,0.94,5.26,Product_32
+2023-03-06,Toys,Asia,Returning,936.44,222.81,6023,Customer_2,941.03,Cancelled,487,30,Visit,38,Referral,5.01,0.38,5.22,Product_35
+2023-02-18,Books,Europe,Returning,31.39,557.59,9903,Customer_51,81.35,Completed,102,22,Visit,72,Paid Ads,6.8,0.11,2.18,Product_83
+2023-05-04,Books,Asia,Returning,778.97,389.27,1053,Customer_377,600.3,Completed,258,16,Visit,53,Paid Ads,1.75,0.79,2.0,Product_77
+2023-01-11,Home & Kitchen,Europe,New,487.27,880.69,9792,Customer_328,603.57,Cancelled,317,37,Visit,29,Direct,9.43,0.93,2.47,Product_32
+2023-01-03,Home & Kitchen,South America,Returning,917.04,944.31,9396,Customer_84,400.47,Completed,309,11,Add to Cart,39,Social Media,5.89,0.59,5.11,Product_20
+2023-02-03,Toys,South America,Returning,515.08,78.39,4700,Customer_787,643.58,Completed,186,9,Add to Cart,56,Referral,9.36,0.59,1.79,Product_54
+2023-01-27,Books,Europe,Returning,239.9,897.89,9827,Customer_247,785.85,Cancelled,321,27,Purchase,58,Social Media,4.31,0.46,7.86,Product_34
+2023-04-11,Books,Australia,Returning,578.11,876.62,9315,Customer_318,923.5,Pending,241,9,Purchase,51,Paid Ads,7.15,0.32,1.14,Product_57
+2023-03-08,Home & Kitchen,Australia,Returning,892.81,813.27,1504,Customer_20,606.59,Cancelled,483,40,Visit,79,Social Media,2.29,0.1,1.76,Product_28
+2023-02-12,Home & Kitchen,Europe,New,207.66,960.16,1116,Customer_108,721.27,Completed,351,2,Purchase,29,Direct,9.13,0.73,8.96,Product_98
+2023-02-16,Home & Kitchen,Asia,Returning,142.86,819.2,1375,Customer_516,913.16,Cancelled,344,45,Purchase,61,Direct,8.56,0.86,7.76,Product_34
+2023-01-15,Toys,Europe,New,849.87,389.21,8145,Customer_94,853.39,Pending,360,12,Add to Cart,81,Direct,5.55,0.63,1.62,Product_55
+2023-03-19,Toys,South America,Returning,418.16,619.5,7485,Customer_514,717.68,Completed,127,21,Purchase,70,Paid Ads,5.46,0.01,7.94,Product_23
+2023-02-05,Electronics,North America,Returning,144.64,13.77,7880,Customer_565,443.75,Pending,331,37,Purchase,87,Social Media,9.18,0.35,6.49,Product_32
+2023-02-07,Electronics,Australia,Returning,498.54,47.45,3058,Customer_330,157.64,Cancelled,233,22,Add to Cart,59,Paid Ads,4.44,0.36,2.12,Product_92
+2023-03-11,Books,Asia,Returning,28.74,200.8,4034,Customer_954,551.68,Pending,478,29,Add to Cart,41,Paid Ads,6.54,0.33,6.59,Product_42
+2023-03-18,Toys,North America,Returning,942.42,52.41,7388,Customer_684,591.45,Pending,168,45,Add to Cart,21,Direct,3.12,0.87,4.96,Product_94
+2023-05-16,Books,Europe,New,674.53,342.43,6943,Customer_360,211.57,Cancelled,156,21,Purchase,6,Direct,6.99,0.42,5.03,Product_36
+2023-01-17,Clothing,North America,Returning,475.79,947.98,6518,Customer_499,946.95,Pending,403,11,Purchase,71,Social Media,2.4,0.14,5.77,Product_3
+2023-02-08,Home & Kitchen,Australia,Returning,348.19,460.04,6610,Customer_404,906.64,Cancelled,360,17,Add to Cart,51,Paid Ads,3.7,0.12,1.2,Product_60
+2023-03-13,Toys,Asia,New,175.9,437.79,3689,Customer_375,847.2,Completed,73,24,Visit,52,Social Media,7.44,0.39,2.2,Product_35
+2023-04-16,Toys,Europe,New,184.75,909.63,9669,Customer_808,861.92,Cancelled,127,15,Add to Cart,23,Social Media,5.3,0.23,1.62,Product_45
+2023-02-16,Toys,South America,Returning,226.56,188.39,5486,Customer_2,293.24,Pending,301,32,Purchase,67,Social Media,4.71,0.11,2.92,Product_56
+2023-01-30,Books,South America,Returning,463.71,74.82,5722,Customer_496,732.9,Completed,81,39,Visit,7,Organic Search,1.62,0.13,3.8,Product_62
+2023-01-16,Clothing,Asia,Returning,873.0,929.52,2593,Customer_646,358.09,Completed,148,28,Add to Cart,93,Direct,1.48,0.03,3.83,Product_10
+2023-04-09,Clothing,South America,Returning,913.09,932.52,2747,Customer_941,442.86,Completed,342,45,Add to Cart,24,Direct,7.86,0.68,1.86,Product_63
+2023-02-26,Home & Kitchen,North America,Returning,663.54,553.04,3627,Customer_563,200.71,Pending,241,5,Add to Cart,99,Direct,1.39,0.96,5.21,Product_11
+2023-05-02,Home & Kitchen,North America,New,481.7,877.28,7447,Customer_64,519.33,Pending,338,46,Visit,86,Paid Ads,6.71,0.28,6.21,Product_55
+2023-03-19,Clothing,Australia,New,366.83,983.66,4997,Customer_961,823.09,Cancelled,463,41,Visit,42,Organic Search,2.41,0.04,3.11,Product_34
+2023-05-08,Toys,Australia,New,75.57,309.95,9544,Customer_277,464.57,Pending,433,12,Visit,54,Organic Search,6.41,0.15,6.25,Product_78
+2023-04-23,Clothing,Asia,Returning,826.09,611.43,4316,Customer_855,476.36,Cancelled,390,21,Purchase,20,Direct,6.91,0.99,7.08,Product_63
+2023-02-26,Clothing,Australia,New,284.97,19.19,6499,Customer_805,661.66,Pending,298,2,Purchase,94,Referral,9.14,0.63,3.39,Product_8
+2023-04-28,Electronics,South America,Returning,46.25,798.67,1145,Customer_321,393.35,Pending,376,38,Purchase,55,Organic Search,7.43,0.15,8.34,Product_85
+2023-02-02,Clothing,South America,New,977.8,333.99,3117,Customer_314,105.25,Cancelled,211,1,Add to Cart,92,Paid Ads,5.44,0.61,6.02,Product_62
+2023-04-17,Toys,Australia,Returning,494.01,823.86,4052,Customer_913,595.38,Completed,91,26,Purchase,72,Paid Ads,5.53,0.07,4.16,Product_55
+2023-05-15,Toys,Europe,New,713.93,26.9,1683,Customer_322,504.0,Cancelled,257,10,Purchase,25,Paid Ads,8.92,0.07,5.23,Product_4
+2023-01-25,Books,Asia,Returning,457.0,719.08,5684,Customer_293,566.68,Completed,235,8,Purchase,11,Paid Ads,5.05,0.83,5.22,Product_32
+2023-01-05,Clothing,North America,Returning,426.03,146.56,5823,Customer_443,621.82,Completed,207,38,Add to Cart,80,Paid Ads,4.17,0.23,8.22,Product_76
+2023-05-25,Clothing,South America,New,644.72,197.06,3929,Customer_996,923.21,Cancelled,110,10,Purchase,11,Social Media,1.96,0.85,9.35,Product_91
+2023-03-17,Clothing,Europe,Returning,948.28,215.24,2615,Customer_522,676.12,Pending,316,21,Purchase,33,Social Media,8.94,0.75,5.97,Product_81
+2023-01-28,Books,Europe,New,897.61,711.35,8017,Customer_129,509.45,Cancelled,134,10,Visit,43,Social Media,8.27,0.78,4.66,Product_55
+2023-03-08,Electronics,Asia,Returning,935.89,853.66,8762,Customer_459,778.24,Cancelled,257,47,Add to Cart,72,Referral,1.03,0.72,2.41,Product_27
+2023-02-26,Toys,South America,Returning,458.87,959.87,5288,Customer_650,409.65,Completed,341,45,Purchase,28,Organic Search,1.44,0.52,8.99,Product_57
+2023-01-16,Toys,North America,New,895.6,144.61,5785,Customer_677,524.52,Pending,172,44,Add to Cart,87,Referral,7.26,0.56,4.29,Product_42
+2023-05-05,Clothing,Australia,New,155.39,143.19,4475,Customer_56,501.61,Pending,160,32,Purchase,61,Organic Search,1.73,0.12,6.85,Product_78
+2023-02-07,Home & Kitchen,Asia,Returning,387.18,268.91,1361,Customer_690,175.2,Cancelled,434,36,Visit,66,Paid Ads,6.95,0.45,9.9,Product_58
+2023-01-18,Toys,Asia,New,349.13,459.87,2673,Customer_707,767.57,Cancelled,257,45,Add to Cart,84,Organic Search,8.8,0.15,6.81,Product_100
+2023-03-10,Clothing,North America,Returning,251.28,490.48,9247,Customer_580,368.13,Pending,476,50,Visit,48,Organic Search,4.13,0.62,1.55,Product_41
+2023-02-17,Toys,Europe,Returning,277.5,103.19,6077,Customer_339,795.08,Completed,381,24,Add to Cart,4,Direct,5.49,0.02,4.8,Product_62
+2023-02-20,Electronics,South America,Returning,787.26,826.25,6592,Customer_362,689.99,Cancelled,128,28,Add to Cart,87,Paid Ads,1.28,0.23,8.01,Product_37
+2023-05-29,Electronics,South America,New,643.23,892.96,6227,Customer_525,64.49,Completed,445,50,Visit,59,Paid Ads,6.73,0.93,5.62,Product_24
+2023-02-26,Clothing,Australia,New,814.73,955.93,4003,Customer_798,927.48,Cancelled,84,25,Purchase,42,Social Media,3.68,0.12,9.01,Product_37
+2023-04-10,Electronics,Europe,Returning,898.59,441.03,8666,Customer_375,218.41,Completed,213,41,Visit,44,Social Media,4.61,0.3,1.34,Product_90
+2023-05-15,Books,Europe,New,650.41,527.83,9392,Customer_859,687.73,Cancelled,185,17,Visit,6,Organic Search,2.98,0.66,6.3,Product_50
+2023-02-14,Books,Australia,New,265.82,258.57,6900,Customer_638,685.29,Pending,398,47,Visit,95,Organic Search,3.0,0.77,6.73,Product_79
+2023-05-16,Books,South America,Returning,133.05,462.79,4439,Customer_154,737.49,Pending,102,22,Visit,82,Social Media,7.51,0.44,7.05,Product_88
+2023-02-01,Toys,North America,New,254.9,288.77,5629,Customer_509,998.6,Completed,498,36,Visit,24,Referral,3.86,0.47,8.82,Product_2
+2023-04-05,Toys,Australia,Returning,510.97,199.82,9310,Customer_810,961.57,Pending,291,11,Add to Cart,18,Social Media,3.56,0.27,3.47,Product_9
+2023-05-27,Books,North America,New,437.31,996.89,4687,Customer_738,368.72,Completed,493,22,Visit,75,Organic Search,8.41,0.12,9.56,Product_87
+2023-01-31,Home & Kitchen,South America,New,930.51,881.62,3816,Customer_140,46.23,Pending,425,40,Add to Cart,23,Direct,6.92,0.93,4.48,Product_76
+2023-04-03,Books,Europe,Returning,240.11,452.13,1626,Customer_941,731.7,Completed,175,33,Visit,39,Social Media,5.26,0.49,8.27,Product_54
+2023-02-04,Clothing,North America,Returning,936.53,628.81,7236,Customer_180,98.01,Completed,356,45,Visit,86,Paid Ads,5.55,0.82,7.61,Product_57
+2023-01-09,Toys,South America,New,399.81,639.1,6221,Customer_773,141.84,Cancelled,429,12,Purchase,40,Referral,2.24,0.95,1.4,Product_29
+2023-02-19,Books,South America,New,264.27,73.64,8138,Customer_126,787.51,Pending,163,31,Purchase,96,Social Media,3.78,0.78,9.0,Product_81
+2023-04-12,Toys,South America,New,13.92,405.32,3738,Customer_253,896.94,Cancelled,406,24,Add to Cart,63,Referral,4.31,0.28,8.05,Product_15
+2023-02-21,Home & Kitchen,Australia,New,628.0,424.26,5619,Customer_711,148.66,Completed,108,18,Purchase,8,Direct,9.65,0.39,9.23,Product_15
+2023-03-27,Toys,Europe,Returning,853.71,496.34,6919,Customer_966,529.78,Cancelled,317,45,Visit,47,Social Media,3.49,0.88,8.39,Product_47
+2023-05-05,Toys,Asia,Returning,412.72,383.52,5508,Customer_444,527.73,Cancelled,413,36,Visit,87,Social Media,1.07,0.92,8.85,Product_40
+2023-03-26,Home & Kitchen,North America,New,656.73,344.46,5113,Customer_728,750.14,Pending,336,9,Add to Cart,74,Direct,5.53,0.22,9.55,Product_98
+2023-02-23,Electronics,North America,New,361.97,155.66,7854,Customer_693,464.48,Cancelled,62,1,Add to Cart,91,Social Media,2.55,0.51,8.04,Product_68
+2023-02-23,Toys,South America,New,589.03,378.01,2716,Customer_914,284.81,Pending,281,25,Purchase,90,Social Media,7.48,0.73,7.5,Product_13
+2023-01-26,Electronics,Asia,New,719.03,74.04,6619,Customer_813,690.33,Completed,432,49,Add to Cart,25,Social Media,3.06,0.99,8.63,Product_25
+2023-05-17,Toys,North America,New,273.71,598.07,4062,Customer_341,360.36,Pending,472,4,Purchase,68,Direct,4.9,0.24,2.12,Product_39
+2023-04-25,Electronics,South America,New,270.07,225.04,6581,Customer_998,344.59,Completed,74,23,Purchase,70,Social Media,3.0,0.46,5.84,Product_61
+2023-03-09,Clothing,Asia,Returning,118.58,365.34,1176,Customer_325,581.24,Pending,291,47,Purchase,8,Organic Search,7.02,0.66,1.39,Product_6
+2023-04-29,Home & Kitchen,Australia,New,935.48,510.28,7532,Customer_201,988.48,Pending,101,13,Purchase,75,Referral,5.26,0.13,3.84,Product_28
+2023-03-17,Books,Europe,Returning,664.34,11.11,3726,Customer_830,174.72,Cancelled,288,34,Visit,21,Paid Ads,2.53,0.25,2.99,Product_90
+2023-05-14,Clothing,Europe,New,417.9,496.47,2436,Customer_184,766.01,Pending,269,18,Add to Cart,60,Referral,2.94,0.53,5.27,Product_78
+2023-04-24,Books,North America,Returning,700.67,832.2,6428,Customer_893,697.83,Pending,147,41,Visit,51,Social Media,1.63,0.71,4.53,Product_64
+2023-04-01,Electronics,Europe,New,616.17,351.99,7442,Customer_704,646.66,Completed,482,14,Add to Cart,67,Referral,9.64,0.07,2.97,Product_72
+2023-02-22,Books,Europe,New,776.38,666.46,7071,Customer_775,34.03,Pending,476,41,Purchase,45,Direct,5.47,0.59,4.58,Product_81
+2023-03-23,Clothing,South America,Returning,121.12,652.46,7605,Customer_457,689.02,Pending,404,1,Visit,89,Direct,5.96,0.23,5.64,Product_19
+2023-03-24,Home & Kitchen,Europe,Returning,153.6,761.52,2938,Customer_392,570.63,Cancelled,362,41,Add to Cart,33,Social Media,1.54,0.8,5.04,Product_1
+2023-03-16,Toys,Europe,Returning,303.4,434.57,5961,Customer_485,975.27,Cancelled,368,17,Purchase,66,Social Media,6.59,0.57,9.98,Product_83
+2023-01-10,Clothing,North America,New,395.62,560.48,7348,Customer_932,333.35,Cancelled,179,6,Purchase,56,Referral,1.24,0.67,3.01,Product_29
+2023-05-28,Books,Australia,Returning,867.06,476.19,2483,Customer_583,677.44,Completed,387,1,Visit,24,Paid Ads,3.26,0.32,3.05,Product_82
+2023-04-19,Electronics,North America,Returning,577.27,283.1,8198,Customer_423,18.58,Cancelled,341,38,Purchase,95,Paid Ads,8.4,0.25,6.59,Product_3
+2023-02-23,Home & Kitchen,Australia,Returning,159.83,289.01,9785,Customer_305,307.49,Completed,114,30,Visit,44,Direct,8.13,0.18,2.81,Product_97
+2023-03-28,Electronics,Australia,Returning,324.73,144.47,2389,Customer_203,996.69,Completed,246,41,Add to Cart,13,Paid Ads,3.06,0.34,9.78,Product_80
+2023-01-22,Electronics,South America,Returning,982.66,370.0,8708,Customer_206,631.24,Cancelled,144,43,Add to Cart,97,Direct,7.54,0.98,3.54,Product_34
+2023-02-21,Toys,Australia,Returning,35.47,829.59,1368,Customer_58,797.45,Cancelled,489,4,Add to Cart,22,Referral,8.11,0.52,1.75,Product_42
+2023-05-13,Clothing,Asia,Returning,992.34,737.34,6562,Customer_129,140.64,Pending,286,30,Visit,26,Direct,6.24,0.1,4.28,Product_32
+2023-05-31,Books,Australia,New,878.0,963.42,4732,Customer_768,520.47,Pending,51,18,Purchase,63,Paid Ads,2.13,0.89,6.43,Product_29
+2023-05-24,Toys,North America,New,904.55,738.27,6321,Customer_727,720.73,Pending,495,42,Visit,13,Referral,5.92,0.09,8.52,Product_34
+2023-04-08,Toys,South America,New,789.43,289.5,2339,Customer_351,813.99,Cancelled,375,8,Visit,70,Paid Ads,5.59,0.12,9.65,Product_88
+2023-05-04,Electronics,North America,Returning,521.01,763.36,9074,Customer_169,149.46,Pending,263,39,Add to Cart,14,Paid Ads,5.91,0.54,1.85,Product_99
+2023-05-30,Home & Kitchen,North America,Returning,479.7,627.47,6380,Customer_768,530.68,Completed,482,3,Purchase,71,Organic Search,7.13,0.04,4.62,Product_23
+2023-04-14,Books,North America,Returning,597.17,830.23,5180,Customer_783,377.47,Completed,398,19,Purchase,41,Referral,7.27,0.78,2.62,Product_24
+2023-04-20,Toys,South America,New,904.13,826.95,2462,Customer_194,82.21,Completed,161,14,Purchase,6,Referral,3.97,0.72,8.31,Product_7
+2023-01-01,Home & Kitchen,North America,New,102.68,926.43,2500,Customer_827,328.85,Pending,107,3,Add to Cart,36,Social Media,4.29,0.38,7.98,Product_30
+2023-04-17,Toys,South America,New,64.8,544.81,8847,Customer_906,553.7,Pending,246,24,Visit,99,Social Media,4.28,0.4,3.1,Product_9
+2023-04-17,Clothing,Europe,Returning,529.4,227.27,2536,Customer_263,667.3,Cancelled,383,35,Purchase,33,Paid Ads,8.14,0.01,4.36,Product_19
+2023-02-14,Books,Asia,Returning,577.89,486.87,3889,Customer_942,576.0,Completed,216,28,Visit,35,Social Media,1.31,0.25,3.61,Product_62
+2023-01-06,Toys,Australia,Returning,960.85,818.36,8652,Customer_733,610.44,Pending,173,27,Visit,9,Referral,6.48,0.99,7.41,Product_85
+2023-05-03,Home & Kitchen,Europe,Returning,695.29,931.68,1045,Customer_631,373.83,Completed,130,16,Visit,70,Paid Ads,3.17,0.58,3.09,Product_81
+2023-02-06,Books,Europe,New,877.45,842.94,7259,Customer_951,735.44,Pending,256,15,Add to Cart,89,Direct,4.73,0.32,1.21,Product_14
+2023-03-09,Books,North America,New,372.73,965.23,1077,Customer_673,89.4,Completed,189,7,Add to Cart,75,Direct,8.87,0.29,3.08,Product_44
+2023-03-14,Clothing,South America,New,375.57,335.8,4248,Customer_374,783.5,Cancelled,172,17,Visit,28,Social Media,6.12,0.89,7.82,Product_62
+2023-05-18,Clothing,South America,Returning,532.17,538.98,5019,Customer_470,208.74,Pending,439,40,Add to Cart,17,Organic Search,5.92,0.08,1.8,Product_58
+2023-04-25,Toys,South America,New,566.46,167.81,7205,Customer_309,154.91,Pending,117,48,Purchase,79,Organic Search,5.88,0.82,2.99,Product_69
+2023-01-21,Home & Kitchen,South America,New,52.99,39.75,3908,Customer_594,860.82,Cancelled,370,33,Add to Cart,96,Paid Ads,1.35,0.39,8.74,Product_28
+2023-01-07,Electronics,Asia,New,248.43,938.67,3640,Customer_456,917.35,Completed,212,39,Visit,98,Organic Search,4.53,0.69,4.04,Product_78
+2023-05-30,Home & Kitchen,Asia,New,117.72,554.44,3110,Customer_484,328.33,Pending,245,9,Purchase,22,Direct,7.54,0.2,9.03,Product_32
+2023-05-14,Electronics,Europe,Returning,435.48,181.94,4242,Customer_220,723.62,Completed,227,42,Add to Cart,51,Paid Ads,4.65,0.18,3.43,Product_28
+2023-04-12,Books,Australia,New,548.56,655.16,8333,Customer_391,283.92,Pending,481,4,Visit,7,Paid Ads,5.52,0.08,2.14,Product_85
+2023-05-05,Toys,Europe,New,178.44,981.62,7563,Customer_463,725.14,Cancelled,360,14,Purchase,67,Direct,8.36,0.59,2.83,Product_46
+2023-04-05,Toys,Australia,Returning,114.49,120.75,7490,Customer_959,309.6,Cancelled,346,18,Purchase,20,Direct,7.88,1.0,6.79,Product_51
+2023-04-09,Electronics,Europe,New,218.51,268.67,8342,Customer_418,546.11,Cancelled,276,27,Purchase,31,Organic Search,3.3,0.81,8.0,Product_43
+2023-02-24,Electronics,Europe,New,154.29,805.75,9016,Customer_704,783.9,Pending,88,8,Purchase,53,Organic Search,8.56,0.12,1.03,Product_20
+2023-04-13,Home & Kitchen,Australia,Returning,607.91,17.62,6834,Customer_49,936.38,Pending,172,35,Visit,67,Direct,1.6,0.03,7.25,Product_80
+2023-05-02,Home & Kitchen,North America,Returning,361.29,623.44,6017,Customer_989,414.56,Cancelled,327,41,Add to Cart,33,Paid Ads,5.25,0.57,4.01,Product_40
+2023-03-05,Clothing,North America,New,199.01,198.12,7142,Customer_714,15.96,Cancelled,165,46,Visit,86,Organic Search,2.22,0.3,6.88,Product_58
+2023-04-30,Home & Kitchen,South America,Returning,460.66,539.47,6656,Customer_236,753.73,Cancelled,395,15,Visit,95,Social Media,1.9,0.92,5.46,Product_86
+2023-01-04,Books,South America,New,497.33,241.99,7154,Customer_571,279.31,Cancelled,229,17,Purchase,77,Referral,2.06,0.78,2.61,Product_53
+2023-05-01,Electronics,Australia,Returning,315.43,381.76,6172,Customer_573,454.94,Completed,338,38,Purchase,20,Direct,3.26,0.51,2.47,Product_14
+2023-05-28,Clothing,South America,New,256.82,344.33,8169,Customer_328,426.94,Cancelled,339,20,Visit,100,Direct,1.76,0.21,7.77,Product_50
+2023-03-13,Home & Kitchen,Asia,New,708.54,24.21,2068,Customer_449,762.45,Completed,93,34,Add to Cart,37,Social Media,4.48,0.21,8.11,Product_4
+2023-01-02,Electronics,North America,New,272.71,852.84,3484,Customer_527,623.1,Cancelled,240,24,Purchase,76,Direct,2.14,0.63,3.62,Product_92
+2023-02-03,Clothing,Asia,Returning,99.16,387.65,2537,Customer_144,487.14,Cancelled,207,14,Purchase,68,Referral,5.32,0.79,9.99,Product_20
+2023-04-29,Books,Australia,New,144.88,506.29,5839,Customer_900,884.56,Pending,432,1,Visit,71,Direct,5.68,0.07,4.36,Product_62
+2023-03-11,Electronics,North America,New,969.32,863.24,2137,Customer_195,995.82,Cancelled,360,23,Visit,31,Paid Ads,2.42,0.5,8.51,Product_14
+2023-03-10,Electronics,Asia,Returning,859.29,227.75,1411,Customer_314,171.01,Pending,108,14,Visit,64,Social Media,8.21,0.67,3.95,Product_79
+2023-02-23,Toys,Europe,Returning,516.13,895.67,8980,Customer_909,346.73,Pending,351,45,Add to Cart,84,Paid Ads,1.83,0.35,8.53,Product_12
+2023-01-12,Books,Europe,New,192.97,894.86,5140,Customer_494,237.61,Cancelled,494,26,Purchase,5,Organic Search,8.53,0.46,8.2,Product_90
+2023-02-23,Books,North America,Returning,859.67,689.68,9989,Customer_597,527.68,Pending,483,7,Purchase,16,Organic Search,6.15,0.18,4.73,Product_74
+2023-01-10,Electronics,South America,Returning,225.65,58.15,7881,Customer_367,385.21,Pending,122,14,Purchase,77,Referral,9.96,0.29,1.01,Product_92
+2023-04-22,Books,Asia,New,43.39,908.46,2826,Customer_488,227.44,Completed,209,27,Purchase,34,Direct,2.37,0.96,6.58,Product_29
+2023-02-15,Books,Europe,Returning,615.03,386.01,6960,Customer_680,30.51,Cancelled,460,5,Add to Cart,43,Social Media,5.06,0.46,5.8,Product_98
+2023-01-20,Electronics,South America,Returning,235.92,28.59,1201,Customer_813,100.22,Cancelled,231,35,Purchase,97,Paid Ads,9.86,0.12,5.69,Product_96
+2023-05-27,Clothing,North America,Returning,669.8,549.36,8072,Customer_360,567.83,Completed,402,8,Visit,88,Direct,6.73,0.93,1.67,Product_15
+2023-02-23,Toys,Asia,New,282.46,930.45,7633,Customer_578,995.75,Cancelled,248,25,Visit,46,Paid Ads,9.99,0.81,6.32,Product_37
+2023-05-19,Electronics,Asia,New,139.26,905.02,8793,Customer_118,835.1,Cancelled,419,17,Add to Cart,29,Social Media,7.73,0.4,9.74,Product_37
+2023-05-27,Toys,South America,Returning,508.49,635.53,9843,Customer_443,910.96,Pending,439,16,Visit,27,Social Media,6.62,0.87,3.71,Product_36
+2023-03-13,Home & Kitchen,Europe,Returning,976.95,306.68,3244,Customer_246,103.96,Cancelled,312,15,Visit,66,Referral,7.05,0.33,7.99,Product_23
+2023-02-13,Toys,Europe,New,704.79,834.06,2303,Customer_785,141.19,Pending,369,38,Purchase,71,Paid Ads,4.15,0.59,4.03,Product_2
+2023-05-24,Home & Kitchen,Europe,New,354.87,655.31,9328,Customer_854,279.52,Pending,468,11,Visit,60,Direct,1.47,0.9,8.74,Product_76
+2023-02-18,Home & Kitchen,Australia,New,324.13,142.38,5156,Customer_929,418.26,Pending,482,4,Add to Cart,31,Organic Search,6.76,0.43,2.59,Product_9
+2023-03-19,Clothing,South America,Returning,602.73,135.26,9632,Customer_542,631.13,Completed,84,17,Purchase,40,Organic Search,9.1,0.84,1.9,Product_5
+2023-01-09,Home & Kitchen,South America,New,973.48,493.72,8689,Customer_92,412.64,Cancelled,438,24,Visit,56,Organic Search,2.9,0.33,5.62,Product_23
+2023-04-23,Clothing,North America,Returning,571.84,764.48,6744,Customer_925,666.71,Pending,77,10,Add to Cart,9,Paid Ads,9.41,0.83,7.71,Product_33
+2023-05-24,Electronics,Europe,New,310.64,654.73,7938,Customer_476,781.84,Cancelled,448,37,Visit,17,Direct,5.86,0.48,5.14,Product_98
+2023-03-11,Home & Kitchen,South America,Returning,329.22,206.15,4617,Customer_147,69.85,Completed,283,8,Add to Cart,89,Social Media,6.63,0.19,8.19,Product_14
+2023-03-26,Electronics,South America,New,525.48,588.56,4647,Customer_108,875.53,Cancelled,189,31,Purchase,50,Organic Search,3.54,0.09,8.85,Product_42
+2023-05-14,Clothing,Europe,Returning,924.73,838.81,4667,Customer_745,620.81,Cancelled,439,6,Purchase,67,Paid Ads,6.44,0.59,9.81,Product_92
+2023-05-28,Clothing,Asia,New,22.29,202.31,4201,Customer_183,865.3,Cancelled,329,11,Purchase,1,Referral,8.77,0.32,4.2,Product_96
+2023-05-25,Home & Kitchen,North America,Returning,974.53,319.32,5767,Customer_790,854.97,Cancelled,375,40,Visit,67,Social Media,8.57,0.48,4.71,Product_21
+2023-01-25,Toys,South America,Returning,752.49,180.34,3749,Customer_143,869.33,Completed,241,42,Purchase,83,Direct,7.57,0.17,7.45,Product_72
+2023-02-06,Books,North America,Returning,196.91,133.45,8468,Customer_561,92.06,Cancelled,454,36,Add to Cart,76,Referral,7.39,0.76,6.08,Product_97
+2023-03-27,Books,Europe,Returning,431.71,759.7,4683,Customer_919,951.26,Completed,65,19,Purchase,42,Referral,2.94,0.56,7.95,Product_74
+2023-04-16,Electronics,North America,New,359.42,496.8,7288,Customer_616,161.28,Pending,449,20,Purchase,98,Direct,6.81,0.97,7.14,Product_82
+2023-05-22,Electronics,North America,New,377.39,495.96,4911,Customer_312,888.7,Completed,182,18,Visit,15,Organic Search,4.87,0.78,1.7,Product_11
+2023-05-11,Books,South America,New,870.36,899.25,8933,Customer_586,850.74,Completed,118,39,Add to Cart,47,Paid Ads,5.61,0.99,2.86,Product_88
+2023-01-28,Clothing,Australia,New,512.41,791.08,4763,Customer_929,704.3,Pending,332,40,Add to Cart,17,Social Media,4.09,0.51,2.38,Product_56
+2023-04-30,Books,South America,New,536.18,42.68,7054,Customer_677,282.74,Completed,138,37,Purchase,64,Referral,5.61,0.82,1.82,Product_11
+2023-04-09,Home & Kitchen,South America,Returning,202.64,135.52,5294,Customer_373,905.9,Cancelled,131,3,Purchase,64,Social Media,3.86,0.38,9.67,Product_80
+2023-02-21,Books,South America,Returning,336.63,541.63,9259,Customer_664,944.45,Completed,229,45,Purchase,1,Social Media,7.87,0.73,7.85,Product_31
+2023-02-14,Toys,North America,New,849.42,510.16,2768,Customer_932,798.6,Pending,383,16,Visit,75,Referral,1.67,0.12,9.47,Product_48
+2023-01-09,Toys,North America,Returning,277.48,840.44,9935,Customer_328,185.27,Pending,416,28,Add to Cart,100,Social Media,5.51,0.7,3.47,Product_26
+2023-02-17,Toys,North America,New,242.73,54.93,6840,Customer_420,469.64,Cancelled,316,9,Add to Cart,12,Paid Ads,9.17,0.67,1.8,Product_34
+2023-03-26,Toys,South America,New,620.63,808.32,6227,Customer_372,25.16,Completed,243,46,Add to Cart,21,Paid Ads,2.1,0.82,8.3,Product_93
+2023-05-13,Books,Asia,New,199.66,135.81,1811,Customer_349,712.93,Cancelled,120,45,Visit,65,Social Media,4.41,0.56,7.75,Product_100
+2023-04-27,Clothing,Europe,New,864.54,239.14,6668,Customer_178,179.72,Completed,196,23,Add to Cart,23,Direct,2.52,0.47,5.07,Product_87
+2023-03-23,Electronics,Asia,New,849.53,824.85,2683,Customer_204,360.88,Cancelled,414,7,Add to Cart,95,Referral,5.69,0.91,7.24,Product_79
+2023-04-21,Electronics,North America,Returning,210.19,324.57,8904,Customer_440,552.68,Cancelled,55,16,Add to Cart,78,Referral,8.76,0.05,7.28,Product_98
+2023-04-10,Clothing,Asia,Returning,143.5,23.12,8147,Customer_652,200.43,Completed,306,15,Visit,54,Organic Search,7.16,0.7,4.64,Product_38
+2023-03-13,Toys,Europe,Returning,666.37,318.38,2160,Customer_688,306.37,Completed,60,25,Add to Cart,40,Direct,9.37,0.75,8.85,Product_46
+2023-05-29,Toys,South America,Returning,748.88,652.5,7342,Customer_949,850.94,Cancelled,208,4,Add to Cart,71,Social Media,8.38,0.25,9.4,Product_10
+2023-01-03,Electronics,South America,New,867.66,897.75,4688,Customer_345,56.59,Pending,126,2,Purchase,69,Social Media,2.25,0.63,9.18,Product_15
+2023-01-12,Electronics,Asia,New,638.47,170.84,8081,Customer_171,810.48,Cancelled,62,31,Add to Cart,1,Social Media,7.21,0.16,6.21,Product_19
+2023-05-31,Clothing,Australia,Returning,235.69,336.18,6155,Customer_254,677.67,Cancelled,197,2,Add to Cart,13,Referral,5.91,0.69,4.36,Product_37
+2023-01-03,Toys,Europe,New,702.87,122.53,9641,Customer_111,724.52,Cancelled,449,50,Add to Cart,33,Social Media,2.65,0.82,1.36,Product_73
+2023-05-03,Books,North America,New,726.77,327.75,6167,Customer_345,81.15,Pending,349,19,Visit,31,Social Media,7.82,0.84,8.63,Product_21
+2023-03-28,Electronics,North America,Returning,451.91,926.66,6989,Customer_428,366.14,Cancelled,199,23,Purchase,23,Direct,1.51,0.36,9.21,Product_39
+2023-02-17,Toys,South America,Returning,434.65,252.12,1728,Customer_493,434.25,Pending,53,33,Visit,17,Referral,5.44,0.33,6.26,Product_69
+2023-04-09,Electronics,North America,Returning,485.55,447.25,8607,Customer_486,58.3,Completed,125,39,Purchase,99,Social Media,1.8,0.54,3.33,Product_8
+2023-01-06,Clothing,Australia,Returning,300.43,492.08,4566,Customer_999,86.81,Completed,96,8,Add to Cart,11,Social Media,1.69,0.31,9.6,Product_52
+2023-05-03,Electronics,South America,Returning,349.35,880.27,3160,Customer_295,581.33,Cancelled,97,15,Purchase,23,Organic Search,6.12,0.23,2.74,Product_18
+2023-04-29,Books,Asia,New,823.28,301.26,7606,Customer_76,200.58,Completed,202,20,Add to Cart,30,Direct,8.65,0.53,7.9,Product_17
+2023-02-24,Home & Kitchen,Europe,New,353.38,715.02,2003,Customer_790,82.95,Pending,319,23,Add to Cart,35,Referral,6.37,0.29,9.02,Product_87
+2023-02-11,Toys,Australia,Returning,803.22,454.39,4361,Customer_493,802.64,Pending,259,21,Purchase,59,Referral,1.54,0.7,8.33,Product_34
+2023-05-24,Toys,Europe,New,726.49,446.31,1794,Customer_618,713.16,Pending,461,5,Purchase,23,Paid Ads,4.03,0.95,7.03,Product_5
+2023-04-18,Electronics,Asia,Returning,864.28,178.26,5922,Customer_691,603.47,Pending,164,36,Add to Cart,85,Paid Ads,8.86,0.23,6.66,Product_30
+2023-03-21,Toys,North America,Returning,635.56,529.84,6773,Customer_302,247.75,Cancelled,336,1,Add to Cart,24,Paid Ads,5.39,1.0,5.11,Product_23
+2023-01-29,Home & Kitchen,Asia,Returning,909.13,668.37,2687,Customer_571,346.17,Completed,206,41,Add to Cart,86,Referral,2.01,0.73,5.05,Product_3
+2023-02-24,Books,North America,New,615.23,410.51,7291,Customer_349,402.9,Completed,134,35,Visit,26,Direct,6.91,0.2,6.85,Product_64
+2023-02-13,Electronics,Europe,New,598.33,565.83,7287,Customer_858,633.7,Cancelled,415,33,Purchase,67,Paid Ads,3.36,0.04,5.55,Product_40
+2023-04-09,Toys,Asia,Returning,519.72,593.3,6909,Customer_608,407.3,Pending,311,15,Purchase,30,Referral,6.37,0.46,3.83,Product_1
+2023-05-05,Electronics,Australia,Returning,725.07,162.05,2313,Customer_606,950.35,Cancelled,126,35,Add to Cart,64,Paid Ads,4.41,0.48,4.36,Product_42
+2023-01-14,Toys,Australia,New,145.96,542.38,1328,Customer_330,894.34,Completed,75,13,Visit,13,Social Media,1.5,0.67,7.59,Product_66
+2023-05-23,Toys,Australia,Returning,693.22,508.75,4879,Customer_817,968.58,Pending,398,13,Add to Cart,49,Social Media,9.95,0.19,8.86,Product_66
+2023-03-03,Books,Asia,Returning,582.38,790.86,1368,Customer_236,780.01,Cancelled,122,5,Purchase,40,Social Media,2.23,0.62,2.05,Product_67
+2023-01-20,Home & Kitchen,Europe,Returning,52.92,991.33,9013,Customer_54,507.87,Pending,409,48,Purchase,5,Referral,8.55,0.83,2.57,Product_35
+2023-03-23,Home & Kitchen,South America,Returning,531.93,241.99,5323,Customer_541,239.22,Cancelled,288,25,Add to Cart,5,Social Media,3.49,0.54,9.82,Product_85
+2023-01-07,Home & Kitchen,Australia,New,601.38,878.74,6394,Customer_189,114.43,Pending,305,12,Visit,40,Organic Search,2.96,0.86,6.26,Product_86
+2023-04-19,Books,Asia,Returning,335.27,682.17,2722,Customer_521,980.9,Pending,172,12,Purchase,69,Paid Ads,7.43,0.73,1.56,Product_36
+2023-03-29,Toys,Asia,New,933.91,34.06,8435,Customer_237,185.49,Pending,249,41,Add to Cart,87,Social Media,7.12,0.99,2.05,Product_90
+2023-03-09,Electronics,Asia,Returning,968.31,955.75,1063,Customer_698,337.03,Pending,351,10,Purchase,88,Direct,9.86,0.79,4.81,Product_97
+2023-03-30,Toys,Asia,New,235.07,965.22,1039,Customer_450,682.11,Pending,449,10,Purchase,95,Paid Ads,2.8,0.37,9.3,Product_93
+2023-04-08,Clothing,Europe,New,832.49,109.34,5652,Customer_171,156.69,Cancelled,405,34,Purchase,31,Paid Ads,8.1,0.31,1.15,Product_88
+2023-05-29,Clothing,South America,Returning,391.49,61.82,7372,Customer_927,72.02,Completed,388,46,Purchase,98,Direct,7.12,0.8,3.66,Product_54
+2023-02-03,Home & Kitchen,North America,New,508.7,186.88,4731,Customer_963,879.05,Pending,478,49,Visit,38,Social Media,8.19,0.48,5.06,Product_28
+2023-02-10,Clothing,North America,Returning,437.29,800.41,6788,Customer_136,482.15,Completed,442,28,Visit,39,Paid Ads,8.06,0.05,1.52,Product_67
+2023-02-25,Home & Kitchen,North America,Returning,127.02,328.28,1409,Customer_250,609.42,Pending,234,42,Add to Cart,80,Direct,4.17,0.15,9.25,Product_80
+2023-01-17,Home & Kitchen,Europe,Returning,79.43,435.78,8864,Customer_325,598.19,Cancelled,419,16,Purchase,66,Social Media,5.52,0.77,5.67,Product_31
+2023-01-05,Clothing,North America,Returning,657.12,501.55,3110,Customer_932,913.12,Pending,60,44,Purchase,65,Social Media,2.1,0.99,5.38,Product_40
+2023-02-10,Clothing,Asia,Returning,611.61,528.91,5301,Customer_136,664.29,Pending,499,28,Add to Cart,9,Direct,9.1,0.4,5.39,Product_28
+2023-03-11,Toys,Europe,Returning,135.64,564.44,1221,Customer_344,949.37,Pending,489,42,Purchase,40,Direct,1.27,0.55,7.41,Product_74
+2023-04-17,Electronics,South America,New,732.85,897.14,9332,Customer_681,335.84,Completed,400,41,Add to Cart,11,Referral,3.52,0.11,9.37,Product_75
+2023-01-17,Books,North America,New,177.01,473.43,7062,Customer_275,972.24,Pending,100,25,Visit,30,Paid Ads,5.8,0.14,2.47,Product_21
+2023-01-10,Books,Europe,New,17.02,700.92,1361,Customer_356,106.44,Pending,350,42,Purchase,29,Social Media,3.25,0.96,1.79,Product_45
+2023-01-22,Home & Kitchen,Australia,New,748.66,702.89,2899,Customer_947,93.31,Completed,156,23,Visit,70,Organic Search,4.72,0.78,7.89,Product_31
+2023-04-03,Clothing,South America,Returning,121.28,462.5,5363,Customer_741,343.7,Cancelled,430,14,Add to Cart,54,Direct,5.31,0.01,9.74,Product_41
+2023-05-08,Clothing,North America,New,157.06,996.54,8573,Customer_568,62.07,Pending,347,19,Purchase,86,Organic Search,2.27,0.89,1.38,Product_3
+2023-03-07,Electronics,North America,Returning,37.03,668.96,7622,Customer_210,471.2,Completed,52,3,Visit,80,Direct,1.29,0.57,4.11,Product_48
+2023-05-23,Home & Kitchen,Asia,New,172.3,815.11,7826,Customer_508,525.97,Pending,388,42,Visit,81,Social Media,2.37,0.1,4.62,Product_61
+2023-03-17,Books,Europe,New,713.05,508.75,3278,Customer_857,816.92,Cancelled,490,48,Purchase,50,Direct,1.96,0.34,9.49,Product_97
+2023-04-01,Home & Kitchen,South America,New,52.48,357.32,1695,Customer_722,959.48,Cancelled,80,46,Purchase,58,Organic Search,1.65,0.75,7.32,Product_9
+2023-04-06,Home & Kitchen,Europe,Returning,194.48,88.26,2863,Customer_949,745.67,Pending,350,7,Purchase,100,Organic Search,7.0,0.14,6.88,Product_99
+2023-03-05,Home & Kitchen,North America,Returning,882.35,344.27,5096,Customer_407,547.62,Pending,469,2,Purchase,62,Referral,4.55,0.67,8.61,Product_12
+2023-05-14,Toys,Europe,New,906.72,652.4,2586,Customer_261,762.55,Pending,142,11,Purchase,15,Referral,9.82,0.52,4.67,Product_12
+2023-03-09,Clothing,South America,Returning,741.0,431.18,7990,Customer_541,769.5,Pending,145,10,Purchase,42,Organic Search,6.79,0.04,4.82,Product_80
+2023-02-08,Clothing,Europe,New,769.08,384.04,4190,Customer_553,768.83,Pending,103,48,Add to Cart,53,Direct,9.08,0.33,8.95,Product_91
+2023-03-10,Home & Kitchen,Asia,Returning,473.98,930.73,5670,Customer_937,714.62,Pending,424,15,Add to Cart,15,Social Media,6.57,0.1,8.17,Product_77
+2023-05-18,Electronics,Asia,New,41.76,366.54,3183,Customer_960,770.69,Completed,420,12,Add to Cart,29,Social Media,9.42,0.46,7.43,Product_29
+2023-03-02,Toys,Australia,Returning,933.76,87.5,5556,Customer_433,738.83,Pending,114,12,Add to Cart,26,Social Media,4.71,0.69,5.4,Product_99
+2023-04-16,Electronics,Europe,Returning,65.62,957.78,6927,Customer_381,174.61,Completed,266,32,Visit,39,Direct,7.91,0.79,7.82,Product_71
+2023-05-09,Toys,Europe,Returning,589.72,547.18,5629,Customer_502,441.66,Pending,168,16,Visit,71,Social Media,4.79,0.81,6.33,Product_13
+2023-02-04,Home & Kitchen,North America,Returning,888.73,777.7,5162,Customer_440,614.38,Pending,121,48,Purchase,46,Direct,5.41,0.95,3.11,Product_41
+2023-03-25,Electronics,South America,New,649.45,800.61,9258,Customer_881,949.31,Cancelled,471,21,Visit,87,Direct,2.67,0.19,2.93,Product_8
+2023-03-15,Books,North America,New,157.3,336.75,8379,Customer_681,298.41,Pending,203,8,Visit,83,Referral,3.62,0.75,7.47,Product_26
+2023-05-21,Toys,South America,Returning,954.42,192.97,3162,Customer_414,792.25,Cancelled,159,23,Purchase,2,Referral,5.48,0.41,2.23,Product_84
+2023-02-18,Home & Kitchen,North America,Returning,692.95,623.66,7199,Customer_652,710.52,Completed,486,40,Add to Cart,74,Social Media,9.12,0.36,7.5,Product_17
+2023-03-12,Clothing,South America,New,709.39,450.32,7061,Customer_919,27.63,Completed,62,11,Purchase,64,Social Media,5.83,0.55,8.35,Product_80
+2023-01-28,Clothing,Asia,New,541.5,391.41,2674,Customer_934,723.72,Completed,423,41,Purchase,28,Direct,4.28,0.22,1.61,Product_98
+2023-02-24,Electronics,Asia,New,797.13,197.59,5016,Customer_331,810.22,Cancelled,396,6,Visit,54,Paid Ads,8.15,0.09,3.01,Product_84
+2023-01-30,Clothing,North America,New,207.02,277.95,5965,Customer_990,675.99,Completed,88,44,Add to Cart,91,Social Media,8.3,0.87,1.64,Product_6
+2023-01-07,Clothing,North America,New,892.91,372.56,8861,Customer_697,526.38,Pending,158,16,Purchase,13,Referral,2.3,1.0,2.46,Product_39
+2023-04-25,Electronics,Asia,New,295.63,736.06,8434,Customer_392,752.13,Pending,498,7,Visit,66,Referral,9.91,0.89,5.39,Product_28
+2023-04-16,Books,North America,New,878.13,631.1,2152,Customer_596,41.5,Cancelled,60,45,Add to Cart,68,Organic Search,4.53,0.92,6.09,Product_82
+2023-02-11,Electronics,North America,Returning,502.58,250.75,7212,Customer_104,369.91,Completed,299,42,Visit,58,Paid Ads,5.7,0.58,4.43,Product_20
+2023-02-21,Home & Kitchen,Asia,New,494.4,320.49,9255,Customer_380,55.47,Pending,450,41,Add to Cart,9,Social Media,6.17,0.55,6.54,Product_91
+2023-05-12,Clothing,Asia,Returning,149.04,217.51,5362,Customer_877,792.26,Completed,459,25,Purchase,45,Paid Ads,3.13,0.2,4.86,Product_7
+2023-01-15,Books,Europe,Returning,204.77,507.12,8974,Customer_924,183.88,Cancelled,356,19,Purchase,12,Referral,2.82,0.9,8.36,Product_8
+2023-05-18,Books,Asia,Returning,38.18,420.65,7217,Customer_118,544.4,Pending,75,10,Visit,33,Social Media,2.84,0.24,2.63,Product_73
+2023-03-29,Home & Kitchen,South America,Returning,736.26,322.24,6149,Customer_438,910.03,Pending,59,1,Visit,91,Direct,3.45,0.56,9.46,Product_78
+2023-05-12,Electronics,South America,New,931.4,654.56,5214,Customer_487,347.65,Cancelled,301,6,Purchase,23,Paid Ads,6.25,0.48,4.92,Product_58
+2023-05-29,Toys,Australia,Returning,72.77,63.45,7287,Customer_615,339.8,Pending,441,11,Add to Cart,71,Referral,1.56,0.47,2.06,Product_41
+2023-02-16,Toys,Europe,Returning,279.56,665.29,9598,Customer_507,453.98,Pending,159,11,Purchase,84,Social Media,8.13,0.35,6.56,Product_83
+2023-05-24,Books,Asia,New,744.96,302.34,6468,Customer_316,160.08,Cancelled,435,6,Purchase,83,Referral,3.18,0.77,3.44,Product_67
+2023-04-16,Books,North America,Returning,840.72,625.61,1494,Customer_280,896.57,Completed,200,19,Visit,60,Social Media,5.41,0.4,7.79,Product_2
+2023-01-24,Books,Asia,Returning,85.08,998.86,1374,Customer_480,710.66,Completed,103,38,Add to Cart,55,Direct,4.39,0.68,2.71,Product_74
+2023-05-26,Home & Kitchen,Asia,New,296.49,211.24,2302,Customer_234,373.41,Completed,68,14,Add to Cart,91,Social Media,5.86,0.21,2.0,Product_93
+2023-02-20,Electronics,North America,New,484.95,793.59,4208,Customer_365,107.76,Completed,277,40,Purchase,35,Social Media,9.29,0.8,1.15,Product_10
+2023-05-29,Books,North America,New,633.88,451.5,1902,Customer_659,691.44,Completed,497,41,Add to Cart,3,Organic Search,2.77,0.12,4.04,Product_67
+2023-04-21,Clothing,South America,New,527.37,724.66,4394,Customer_632,193.44,Completed,251,21,Add to Cart,76,Paid Ads,6.47,0.53,6.99,Product_33
+2023-01-15,Books,Australia,Returning,314.15,693.17,1782,Customer_156,111.64,Completed,332,36,Visit,65,Social Media,3.19,0.38,3.43,Product_47
+2023-01-04,Toys,Europe,Returning,884.14,636.63,6267,Customer_657,124.8,Completed,247,22,Purchase,92,Referral,3.63,0.34,3.41,Product_14
+2023-04-01,Toys,Australia,New,601.02,941.44,8251,Customer_836,449.67,Pending,118,12,Add to Cart,71,Referral,3.62,0.04,7.47,Product_62
+2023-04-23,Clothing,North America,New,560.78,648.91,8983,Customer_28,327.91,Completed,217,10,Purchase,86,Social Media,4.46,0.96,6.25,Product_53
+2023-02-02,Clothing,Australia,Returning,67.98,826.05,9244,Customer_281,739.18,Completed,54,46,Purchase,69,Organic Search,5.68,0.11,1.96,Product_41
+2023-03-15,Clothing,Australia,New,882.82,257.76,3930,Customer_857,340.2,Pending,247,14,Add to Cart,71,Direct,3.55,0.86,1.42,Product_12
+2023-03-30,Electronics,South America,Returning,543.69,412.09,8369,Customer_488,592.02,Pending,54,3,Purchase,61,Paid Ads,1.75,0.32,4.87,Product_91
+2023-05-31,Home & Kitchen,Europe,New,112.36,927.26,2854,Customer_615,175.24,Pending,370,36,Visit,55,Social Media,5.0,0.13,9.31,Product_80
+2023-04-21,Books,Asia,Returning,922.86,575.28,2427,Customer_439,168.53,Cancelled,349,50,Purchase,97,Direct,1.27,0.4,2.2,Product_97
+2023-02-22,Clothing,North America,Returning,983.4,531.77,4215,Customer_152,886.35,Completed,148,12,Visit,92,Referral,9.62,0.07,1.2,Product_68
+2023-01-20,Books,Europe,Returning,701.07,817.85,5082,Customer_126,352.14,Cancelled,404,19,Purchase,57,Paid Ads,4.22,0.84,5.9,Product_45
+2023-03-20,Clothing,South America,New,593.27,35.06,9898,Customer_736,472.42,Cancelled,260,21,Visit,54,Direct,7.41,0.67,4.75,Product_35
+2023-05-11,Books,North America,New,139.04,845.4,3181,Customer_11,707.14,Pending,232,18,Visit,72,Paid Ads,2.12,0.89,5.31,Product_29
+2023-05-16,Books,Australia,New,270.94,250.42,3816,Customer_452,406.27,Cancelled,325,21,Add to Cart,23,Direct,1.53,0.44,2.61,Product_20
+2023-02-04,Home & Kitchen,South America,Returning,252.64,669.91,6977,Customer_948,493.36,Cancelled,270,32,Add to Cart,62,Organic Search,7.53,0.26,2.41,Product_34
+2023-01-07,Electronics,Australia,New,59.66,748.47,5814,Customer_199,875.8,Completed,387,38,Add to Cart,29,Direct,5.77,0.55,9.65,Product_60
+2023-03-10,Home & Kitchen,Asia,Returning,371.64,657.27,1855,Customer_134,126.16,Cancelled,177,37,Purchase,73,Referral,2.45,0.37,3.2,Product_70
+2023-05-15,Electronics,South America,Returning,922.27,157.91,5772,Customer_577,418.64,Pending,179,24,Add to Cart,98,Organic Search,3.22,0.78,3.39,Product_83
+2023-02-01,Home & Kitchen,North America,New,556.22,323.91,9481,Customer_221,942.53,Cancelled,243,31,Purchase,51,Direct,3.17,0.17,8.23,Product_93
+2023-03-02,Books,South America,New,691.74,46.67,4749,Customer_546,55.78,Cancelled,270,11,Visit,8,Paid Ads,6.75,0.73,7.9,Product_100
+2023-03-21,Books,North America,Returning,411.9,887.73,1429,Customer_509,528.34,Pending,473,23,Purchase,8,Organic Search,3.73,0.74,7.47,Product_79
+2023-03-12,Books,Australia,Returning,612.22,983.64,9526,Customer_380,507.55,Completed,306,4,Visit,47,Direct,3.16,0.57,7.57,Product_69
+2023-03-11,Clothing,Australia,Returning,164.03,985.81,4992,Customer_726,662.46,Pending,289,9,Purchase,91,Social Media,7.82,0.16,8.4,Product_86
+2023-04-02,Toys,Australia,Returning,672.24,399.04,2819,Customer_91,562.29,Cancelled,427,17,Purchase,60,Referral,7.08,0.02,9.3,Product_21
+2023-01-26,Clothing,Australia,New,51.09,91.89,1295,Customer_894,624.29,Cancelled,193,41,Visit,47,Social Media,4.32,0.98,4.39,Product_90
+2023-05-09,Home & Kitchen,Europe,New,224.66,954.53,9232,Customer_743,623.67,Completed,273,30,Visit,98,Social Media,5.84,0.23,7.02,Product_27
+2023-05-27,Home & Kitchen,Asia,Returning,999.8,67.44,5334,Customer_877,10.07,Cancelled,473,6,Visit,61,Organic Search,8.73,0.68,3.84,Product_64
+2023-02-15,Clothing,North America,New,366.71,242.68,7623,Customer_315,610.06,Completed,302,37,Visit,60,Referral,8.63,0.74,1.19,Product_96
+2023-04-21,Books,Australia,New,455.93,564.44,9892,Customer_928,647.17,Completed,63,26,Purchase,24,Organic Search,4.83,0.05,5.44,Product_93
+2023-04-26,Clothing,North America,New,597.5,656.73,3196,Customer_64,301.29,Completed,407,18,Add to Cart,11,Paid Ads,6.14,0.65,8.26,Product_9
+2023-05-07,Electronics,Asia,Returning,581.68,398.62,5462,Customer_323,847.75,Pending,102,11,Add to Cart,54,Referral,5.13,0.33,4.43,Product_75
+2023-03-15,Toys,Australia,New,268.16,349.3,5462,Customer_204,931.02,Cancelled,309,6,Add to Cart,52,Referral,3.95,0.01,3.2,Product_29
+2023-04-14,Toys,South America,New,913.24,340.73,9265,Customer_296,892.2,Pending,274,18,Add to Cart,36,Direct,9.57,0.74,1.26,Product_2
+2023-01-24,Toys,North America,Returning,825.84,637.89,5863,Customer_426,710.39,Pending,468,10,Visit,6,Social Media,4.35,0.61,1.65,Product_77
+2023-02-09,Books,Europe,New,614.42,198.25,6896,Customer_910,553.8,Completed,173,4,Purchase,70,Referral,6.25,0.44,9.19,Product_53
+2023-05-20,Clothing,Asia,New,197.97,881.47,7805,Customer_372,968.12,Cancelled,384,33,Visit,47,Organic Search,8.57,0.14,8.51,Product_97
+2023-02-19,Toys,South America,Returning,948.37,919.41,1675,Customer_649,914.87,Cancelled,133,13,Visit,21,Direct,4.76,0.15,2.82,Product_63
+2023-05-28,Books,South America,Returning,168.32,327.58,1047,Customer_483,863.93,Completed,75,12,Add to Cart,86,Referral,4.43,0.63,8.09,Product_39
+2023-05-20,Books,North America,New,528.9,27.15,9779,Customer_269,916.94,Completed,53,19,Add to Cart,73,Organic Search,3.9,0.7,9.6,Product_84
+2023-05-04,Clothing,Asia,New,320.07,171.56,3500,Customer_783,195.32,Cancelled,122,20,Add to Cart,10,Direct,7.74,0.54,6.27,Product_87
